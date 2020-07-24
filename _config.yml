@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr Syed Omer Gilani"
 title_separator          : "-"
 name                     : &name "Omer"
-description              : &description "my website"
+description              : "Dr Omer's Website"
 url                      : https://dr-omer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dr-omer/dr-omer.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr Syed Omer Gilani"
-  avatar           : "profile.png"
+  avatar           : "Pic_thumbnail.png"
   bio              : "computer vision and machine learning enthusiast"
   location         : "Islamabad, PK"
   employer         :
