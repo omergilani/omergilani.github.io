@@ -115,8 +115,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  publon           : "https://publons.com/researcher/3290905/syed-omer-gilani/"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55974460500"
+  publons          : "https://publons.com/researcher/3290905/syed-omer-gilani/"
+  springer         : "https://www.scopus.com/authid/detail.uri?authorId=55974460500"
+  mendeley         : "https://www.mendeley.com/authors/55974460500/"
 
 
 # Reading Files
