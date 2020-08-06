@@ -1,11 +1,11 @@
 ---
-title: "Design of Robust Higher-Order Repetitive Controller Using Phase Lead Compensator"
+title: "Design of Robust Higher Order Repetitive Controller Using Phase Lead Compensator"
 collection: publications
 permalink: /publication/2020-0-01-Design-of-Robust-Higher-Order-Repetitive-Controller-Using-Phase-Lead-Compensator
 excerpt: 'IF 4.1'
 date: 2020-0-01
 venue: 'IEEE Access'
-citation: ' M. {Jamil},  A. {Waris},  S. {Gilani},  B. {Khawaja},  M. {Khan},  A. {Raza}, &quot;Design of Robust Higher-Order Repetitive Controller Using Phase Lead Compensator.&quot; IEEE Access, 2020.'
+citation: ' M. {Jamil},  A. {Waris},  S. {Gilani},  B. {Khawaja},  M. {Khan},  A. {Raza}, &quot;Design of Robust Higher Order Repetitive Controller Using Phase Lead Compensator.&quot; IEEE Access, 2020.'
 ---
 IF 4.1
 
