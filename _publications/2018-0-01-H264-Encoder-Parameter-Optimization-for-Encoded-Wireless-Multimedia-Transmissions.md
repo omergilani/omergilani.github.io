@@ -3,7 +3,7 @@ title: "H.264 Encoder Parameter Optimization for Encoded Wireless Multimedia Tra
 collection: publications
 permalink: /publication/2018-0-01-H264-Encoder-Parameter-Optimization-for-Encoded-Wireless-Multimedia-Transmissions
 excerpt: 'IF 3.24'
-date: 2018-0-01
+date: 2018-01-01
 venue: 'IEEE Access'
 citation: ' H. Hassan,  M. Khan,  S. Gilani,  M. Jamil,  H. Maqbool,  A. Malik,  I. Ahmad, &quot;H.264 Encoder Parameter Optimization for Encoded Wireless Multimedia Transmissions.&quot; IEEE Access, 2018.'
 ---
