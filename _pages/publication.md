@@ -20,37 +20,37 @@ redirect_from:
 Improving fuel cell performance via optimal parameters identification through fuzzy logic based-modeling and optimization  
 W.H.Tanveer, H.Rezk, A.Nassef, M.A.Abdelkareem, B.Kolosz, K.Karuppasamy, J.Aslam, S.O.Gilani  
 Energy, vol 204, pp 117976, 2020, IF 5.53  
-**DOI:** [10.1016/j.energy.2020.117976](https://dx.doi.org/10.1016/j.energy.2020.117976)  
+**DOI:** [10.1016/j.energy.2020.117976](https://dx.doi.org/10.1016/j.energy.2020.117976){:target="_blank"}  
   
 Impact of an Energy Monitoring System on the Energy Efficiency of an Automobile Factory: A Case Study  
 T.Akhtar, A.Ur, M.Jamil, S.O.Gilani  
 Energies, vol 13(10), 2020, IF 2.70  
-**DOI:** [10.3390/en13102577](https://dx.doi.org/10.3390/en13102577)  
+**DOI:** [10.3390/en13102577](https://dx.doi.org/10.3390/en13102577){:target="_blank"}  
   
 Determination of Optimum Segmentation Schemes for Pattern Recognition-Based Myoelectric Control: A Multi-Dataset Investigation  
 H.Ashraf, A.Waris, M.Jamil, S.O.Gilani, I.K.Niazi, E.N.Kamavuako, S.H.Gilani  
 IEEE Access, vol 8, pp 90862-90877, 2020, IF 4.1  
-**DOI:** [10.1109/ACCESS.2020.2994829](https://dx.doi.org/10.1109/ACCESS.2020.2994829)  
+**DOI:** [10.1109/ACCESS.2020.2994829](https://dx.doi.org/10.1109/ACCESS.2020.2994829){:target="_blank"}  
   
 Performance Evaluation of Convolutional Neural Network for Hand Gesture Recognition Using EMG  
 A.R.Asif, A.Waris, S.O.Gilani, M.Jamil, H.Ashraf, M.Shafique, I.K.Niazi  
 Sensors, vol 20(6), 2020, IF 3.03  
-**DOI:** [10.3390/s20061642](https://dx.doi.org/10.3390/s20061642)  
+**DOI:** [10.3390/s20061642](https://dx.doi.org/10.3390/s20061642){:target="_blank"}  
   
 Photo detector-based indoor positioning systems variants: A new look  
 M.N.Khan, M.Jamil, S.O.Gilani, I.Ahmad, M.Uzair, H.Omer  
 Computers \& Electrical Engineering, vol 83, pp 106607, 2020, IF 2.18  
-**DOI:** [10.1016/j.compeleceng.2020.106607](https://dx.doi.org/10.1016/j.compeleceng.2020.106607)  
+**DOI:** [10.1016/j.compeleceng.2020.106607](https://dx.doi.org/10.1016/j.compeleceng.2020.106607){:target="_blank"}  
   
 Skin Lesion Segmentation from Dermoscopic Images Using Convolutional Neural Network  
 K.Zafar, S.O.Gilani, A.Waris, A.Ahmed, M.Jamil, M.N.Khan, A.Sohail  
 Sensors, vol 20(6), 2020, IF 3.03  
-**DOI:** [10.3390/s20061601](https://dx.doi.org/10.3390/s20061601)  
+**DOI:** [10.3390/s20061601](https://dx.doi.org/10.3390/s20061601){:target="_blank"}  
   
 Design of Robust Higher Order Repetitive Controller Using Phase Lead Compensator  
 M.{Jamil}, A.{Waris}, S.O.{Gilani}, B.A.{Khawaja}, M.N.{Khan}, A.{Raza}  
 IEEE Access, vol 8, pp 30603-30614, 2020, IF 4.1  
-**DOI:** [10.1109/ACCESS.2020.2973168](https://dx.doi.org/10.1109/ACCESS.2020.2973168)  
+**DOI:** [10.1109/ACCESS.2020.2973168](https://dx.doi.org/10.1109/ACCESS.2020.2973168){:target="_blank"}  
   
   
 # 2019  
@@ -59,62 +59,62 @@ IEEE Access, vol 8, pp 30603-30614, 2020, IF 4.1
 Numerical Simulation of Inline Arrangement of Spheroid Particles in Different Orientations  
 A.Jamil, E.Uddin, A.A.Zaidi, Z.Ali, J.Aslam, S.O.Gilani  
 Fluids Engineering Division Summer Meeting, July, 2019  
-**DOI:** [10.1115/AJKFluids2019-4623](https://dx.doi.org/10.1115/AJKFluids2019-4623)  
+**DOI:** [10.1115/AJKFluids2019-4623](https://dx.doi.org/10.1115/AJKFluids2019-4623){:target="_blank"}  
   
 Fault Signal Detection of Linear Actuators based on Intelligent Remnant Filter  
 N.{Riaz}, S.O.{Gilani}, S.I.{Shah}, E.{Udin}, F.{Rehman}  
 2019 8th International Conference on Information and Communication Technologies (ICICT), pp 180-184, Nov, 2019  
-**DOI:** [10.1109/ICICT47744.2019.9001965](https://dx.doi.org/10.1109/ICICT47744.2019.9001965)  
+**DOI:** [10.1109/ICICT47744.2019.9001965](https://dx.doi.org/10.1109/ICICT47744.2019.9001965){:target="_blank"}  
   
 Automated Classification of Retinal Diseases in STARE Database Using Neural Network Approach  
 N.{Zaheer}, A.{Shehzaad}, S.O.{Gilani}, J.{Aslam}, S.A.{Zaidi}  
 2019 IEEE Canadian Conference of Electrical and Computer Engineering (CCECE), pp 1-5, May, 2019  
-**DOI:** [10.1109/CCECE.2019.8861588](https://dx.doi.org/10.1109/CCECE.2019.8861588)  
+**DOI:** [10.1109/CCECE.2019.8861588](https://dx.doi.org/10.1109/CCECE.2019.8861588){:target="_blank"}  
   
 A comparison of lumped parameter models of modified hybrid electromechanical valve actuator  
 J.{Aslam}, S.O.{Gilani}, W.H.{Tanveer}, E.{Uddin}, S.{Ali}, Y.{Younis}  
 2019 IEEE Canadian Conference of Electrical and Computer Engineering (CCECE), pp 1-6, May, 2019  
-**DOI:** [10.1109/CCECE.2019.8861886](https://dx.doi.org/10.1109/CCECE.2019.8861886)  
+**DOI:** [10.1109/CCECE.2019.8861886](https://dx.doi.org/10.1109/CCECE.2019.8861886){:target="_blank"}  
   
 Comparative Analysis of Classifiers for EMG Signals  
 B.{Saeed}, S.O.{Gilani}, Z.{Rehman}, M.{Jamil}, A.{Waris}, M.N.{Khan}  
 2019 IEEE Canadian Conference of Electrical and Computer Engineering (CCECE), pp 1-5, May, 2019  
-**DOI:** [10.1109/CCECE.2019.8861835](https://dx.doi.org/10.1109/CCECE.2019.8861835)  
+**DOI:** [10.1109/CCECE.2019.8861835](https://dx.doi.org/10.1109/CCECE.2019.8861835){:target="_blank"}  
   
 A Novel Framework to Segment out Cervical Vertebrae  
 F.{Rehman}, S.I.{Shah}, S.O.{Gilani}, D.{Emad}, M.N.{Riaz}, R.{Faiza}  
 2019 2nd International Conference on Communication, Computing and Digital systems (C-CODE), pp 190-194, March, 2019  
-**DOI:** [10.1109/C-CODE.2019.8680994](https://dx.doi.org/10.1109/C-CODE.2019.8680994)  
+**DOI:** [10.1109/C-CODE.2019.8680994](https://dx.doi.org/10.1109/C-CODE.2019.8680994){:target="_blank"}  
   
 A Robust Scheme of Vertebrae Segmentation for Medical Diagnosis  
 F.{Rehman}, S.I.{Ali Shah}, N.{Riaz}, S.O.{Gilani}  
 IEEE Access, vol 7, pp 120387-120398, 2019, IF 4.1  
-**DOI:** [10.1109/ACCESS.2019.2936492](https://dx.doi.org/10.1109/ACCESS.2019.2936492)  
+**DOI:** [10.1109/ACCESS.2019.2936492](https://dx.doi.org/10.1109/ACCESS.2019.2936492){:target="_blank"}  
   
 The Effect of Eye Movements in Response to Different Types of Scenes Using a Graph-Based Visual Saliency Algorithm  
 M.Wahid, A.Waris, S.O.Gilani, R.Subramanian  
 Applied Sciences, vol 9(24), 2019, IF 2.21  
-**DOI:** [10.3390/app9245378](https://dx.doi.org/10.3390/app9245378)  
+**DOI:** [10.3390/app9245378](https://dx.doi.org/10.3390/app9245378){:target="_blank"}  
   
 Detection and tracking of bubbles in two phase air water flow for non convergent sinusoidal channel  
 M.Sajid, A.Rahman, S.O.Gilani, E.Uddin, I.Hassan  
 IET Image Processing, 2019, IF 1.40  
-**DOI:** [10.1049/iet-ipr.2018.5684](https://dx.doi.org/10.1049/iet-ipr.2018.5684)  
+**DOI:** [10.1049/iet-ipr.2018.5684](https://dx.doi.org/10.1049/iet-ipr.2018.5684){:target="_blank"}  
   
 A Region-Based Deep Level Set Formulation for Vertebral Bone Segmentation of Osteoporotic Fractures  
 F.Rehman, S.I.Shah, M.N.Riaz, S.O.Gilani, R.Faiza  
 Journal of digital imaging, pp 1--13, 2019, IF 2.57  
-**DOI:** [10.1007/s10278-019-00216-0](https://dx.doi.org/10.1007/s10278-019-00216-0)  
+**DOI:** [10.1007/s10278-019-00216-0](https://dx.doi.org/10.1007/s10278-019-00216-0){:target="_blank"}  
   
 Automated Classification of Retinal Diseases in STARE Database  
 T.Shafa, S.O.Gilani, A.Shehzad, M.Jamil, S.Mushtaq, S.Mushtaq, A.Waris  
 Gyancity Journal of Engineering and Technology, vol 5(1), pp 16-25, 2019  
-**DOI:** [10.21058/gjet.2019.51003](https://dx.doi.org/10.21058/gjet.2019.51003)  
+**DOI:** [10.21058/gjet.2019.51003](https://dx.doi.org/10.21058/gjet.2019.51003){:target="_blank"}  
   
 Efficient energy utilization in wireless sensor networks: an algorithm  
 M.N.Khan, S.O.Gilani, M.Jamil, A.Raza  
 3 C Tecnologia, vol 2019(1), pp 137-148, 2019  
-**DOI:** [10.17993/3ctecno.2019.specialissue.12](https://dx.doi.org/10.17993/3ctecno.2019.specialissue.12)  
+**DOI:** [10.17993/3ctecno.2019.specialissue.12](https://dx.doi.org/10.17993/3ctecno.2019.specialissue.12){:target="_blank"}  
   
 Automated Classification of Retinal Diseases in STARE Database  
 T.Shafa, S.O.Gilani, A.Shehzad, M.Jamil, S.Mushtaq, S.Mushtaq, A.Waris  
@@ -127,7 +127,7 @@ M.N.Khan, S.O.Gilani, M.Jamil, A.Raza
 Optimal Power Flow and Unified Control Strategy for Multi-Terminal HVDC Systems  
 A.Raza, A.Mustafa, K.Rouzbehi, M.Jamil, S.O.Gilani, G.Abbas, U.Farooq, M.N.Shehzad  
 IEEE Access, vol 7, pp 92642-92650, 2019, IF 4.1  
-**DOI:** [10.1109/ACCESS.2019.2925049](https://dx.doi.org/10.1109/ACCESS.2019.2925049)  
+**DOI:** [10.1109/ACCESS.2019.2925049](https://dx.doi.org/10.1109/ACCESS.2019.2925049){:target="_blank"}  
   
   
 # 2018  
@@ -136,57 +136,57 @@ IEEE Access, vol 7, pp 92642-92650, 2019, IF 4.1
 Multi-Objective Optimization of VSC Stations in Multi-Terminal VSC-HVdc Grids, Based on PSO  
 A.Raza, Z.Yousaf, M.Jamil, S.O.Gilani, G.Abbas, M.Uzair, S.Shaheen, A.Benrabah, F.Li  
 IEEE Access, vol 6, pp 62995-63004, 2018, IF 3.24  
-**DOI:** [10.1109/ACCESS.2018.2875972](https://dx.doi.org/10.1109/ACCESS.2018.2875972)  
+**DOI:** [10.1109/ACCESS.2018.2875972](https://dx.doi.org/10.1109/ACCESS.2018.2875972){:target="_blank"}  
   
 Classification of Overt and Covert Speech for Near-Infrared Spectroscopy-Based Brain Computer Interface  
 E.N.Kamavuako, U.A.Sheikh, S.O.Gilani, M.Jamil, I.K.Niazi  
 Sensors, vol 18(9), 2018, IF 2.47  
-**DOI:** [10.3390/s18092989](https://dx.doi.org/10.3390/s18092989)  
+**DOI:** [10.3390/s18092989](https://dx.doi.org/10.3390/s18092989){:target="_blank"}  
   
 Stacked Sparse Autoencoders for EMG-Based Classification of Hand Motions: A Comparative Multi Day Analyses between Surface and Intramuscular EMG  
 M.Rehman, S.O.Gilani, A.Waris, I.K.Niazi, G.Slabaugh, D.Farina, E.N.Kamavuako  
 Applied Sciences, vol 8(7), 2018, IF 1.68  
-**DOI:** [10.3390/app8071126](https://dx.doi.org/10.3390/app8071126)  
+**DOI:** [10.3390/app8071126](https://dx.doi.org/10.3390/app8071126){:target="_blank"}  
   
 Multi Antenna Systems for 5G Mobile Phones  
 M.N.Khan, S.O.Gilani, M.Jamil, T.Iftikhar  
 International Journal of Electrical, Computer, Energetic, Electronic and Communication Engineering, vol 12(4), pp 295 - 302, 2018  
-**DOI:** [1307-6892/10008870](https://dx.doi.org/1307-6892/10008870)  
+**DOI:** [1307-6892/10008870](https://dx.doi.org/1307-6892/10008870){:target="_blank"}  
   
 Multiday EMG-Based Classification of Hand Motions with Deep Learning Techniques  
 M.Rehman, A.Waris, S.O.Gilani, M.Jochumsen, I.K.Niazi, M.Jamil, D.Farina, E.N.Kamavuako  
 Sensors, vol 18(8), 2018, IF 2.47  
-**DOI:** [10.3390/s18082497](https://dx.doi.org/10.3390/s18082497)  
+**DOI:** [10.3390/s18082497](https://dx.doi.org/10.3390/s18082497){:target="_blank"}  
   
 Maximizing Throughput of Hybrid FSO-RF Communication System An Algorithm  
 M.N.Khan, S.O.Gilani, M.Jamil, A.Rafay, Q.Awais, B.A.Khawaja, M.Uzair, A.W.Malik  
 IEEE Access, vol 6, pp 30039-30048, 2018, IF 3.24  
-**DOI:** [10.1109/ACCESS.2018.2840535](https://dx.doi.org/10.1109/ACCESS.2018.2840535)  
+**DOI:** [10.1109/ACCESS.2018.2840535](https://dx.doi.org/10.1109/ACCESS.2018.2840535){:target="_blank"}  
   
 H.264 Encoder Parameter Optimization for Encoded Wireless Multimedia Transmissions  
 H.Hassan, M.N.Khan, S.O.Gilani, M.Jamil, H.Maqbool, A.W.Malik, I.Ahmad  
 IEEE Access, vol 6, pp 22046-22053, 2018, IF 3.24  
-**DOI:** [10.1109/ACCESS.2018.2824835](https://dx.doi.org/10.1109/ACCESS.2018.2824835)  
+**DOI:** [10.1109/ACCESS.2018.2824835](https://dx.doi.org/10.1109/ACCESS.2018.2824835){:target="_blank"}  
   
 A Protection Scheme for Multi-Terminal VSC-HVDC Transmission Systems  
 A.Raza, A.Akhtar, M.Jamil, G.Abbas, S.O.Gilani, L.Yuchao, M.N.Khan, T.Izhar, X.Dianguo, B.W.Williams  
 IEEE Access, vol 6, pp 3159-3166, 2018, IF 3.24  
-**DOI:** [10.1109/ACCESS.2017.2787485](https://dx.doi.org/10.1109/ACCESS.2017.2787485)  
+**DOI:** [10.1109/ACCESS.2017.2787485](https://dx.doi.org/10.1109/ACCESS.2017.2787485){:target="_blank"}  
   
 The effect of time on EMG classification of hand motions in able-bodied and transradial amputees  
 A.Waris, I.K.Niazi, M.Jamil, S.O.Gilani, K.Englehart, W.Jensen, M.Shafique, E.N.Kamavuako  
 Journal of Electromyography and Kinesiology, vol 40, pp 72 - 80, 2018, IF 1.51  
-**DOI:** [10.1016/j.jelekin.2018.04.004](https://dx.doi.org/10.1016/j.jelekin.2018.04.004)  
+**DOI:** [10.1016/j.jelekin.2018.04.004](https://dx.doi.org/10.1016/j.jelekin.2018.04.004){:target="_blank"}  
   
 An appraisal of nodules detection techniques for lung cancer in CT images  
 M.Z.Rehman, M.Javaid, S.I.Shah, S.O.Gilani, M.Jamil, S.I.Butt  
 Biomedical Signal Processing and Control, vol 41, pp 140 - 151, 2018, IF 2.21  
-**DOI:** [10.1016/j.bspc.2017.11.017](https://dx.doi.org/10.1016/j.bspc.2017.11.017)  
+**DOI:** [10.1016/j.bspc.2017.11.017](https://dx.doi.org/10.1016/j.bspc.2017.11.017){:target="_blank"}  
   
 Dynamic Saliency Model Inspired by Middle Temporal Visual Area: A Spatio-Temporal Perspective  
 H.Mahmood, S.M.Islam, S.O.Gilani, Y.Ayaz  
 2018 Digital Image Computing: Techniques and Applications (DICTA), pp 1-8, Dec, 2018, Canberra, Australia  
-**DOI:** [10.1109/DICTA.2018.8615806](https://dx.doi.org/10.1109/DICTA.2018.8615806)  
+**DOI:** [10.1109/DICTA.2018.8615806](https://dx.doi.org/10.1109/DICTA.2018.8615806){:target="_blank"}  
   
 Video Abstraction inspired by Human Model of Attention  
 S.O.Gilani, M.Jamil  
@@ -195,7 +195,7 @@ S.O.Gilani, M.Jamil
 Comparison of Nonlinear Controllers for Speed Control of DC Motor  
 P.Rauf, M.Jamil, S.O.Gilani  
 9th International Conference on Information Technology, Electronics \& Mobile Communication (IEMCON 2018), November, 2018, Vancouver, Canada  
-**DOI:** [10.1109/IEMCON.2018.8614853](https://dx.doi.org/10.1109/IEMCON.2018.8614853)  
+**DOI:** [10.1109/IEMCON.2018.8614853](https://dx.doi.org/10.1109/IEMCON.2018.8614853){:target="_blank"}  
   
 Spinal manipulation alters conduction velocity and force within the Tibialis Anterior Muscle  
 T.Janjua, I.Niazi, K.Holt, S.O.Gilani, M.Nabeel, E.Kamavuako, H.Haavik  
@@ -246,12 +246,12 @@ International Journal of Multimedia and Ubiquitous Engineering, vol 12(11), pp 2
 Optimizing Availability of a Framework in Series Configuration Utilizing Markov Model and Monte Carlo Simulation Techniques  
 M.A.Siddiqui, S.I.Butt, S.O.Gilani, M.Jamil, A.Maqsood, F.Zhang  
 Symmetry, vol 9(7), 2017, IF 1.45  
-**DOI:** [10.3390/sym9070096](https://dx.doi.org/10.3390/sym9070096)  
+**DOI:** [10.3390/sym9070096](https://dx.doi.org/10.3390/sym9070096){:target="_blank"}  
   
 Link Adaptation for Maximizing MI of Hybrid Optical RF Communication System  
 M.N.Khan, A.Rafay, S.O.Gilani, M.Jamil  
 Procedia Computer Science, vol 110, pp 282--289, 2017, Scopus  
-**DOI:** [10.1016/j.procs.2017.06.096](https://dx.doi.org/10.1016/j.procs.2017.06.096)  
+**DOI:** [10.1016/j.procs.2017.06.096](https://dx.doi.org/10.1016/j.procs.2017.06.096){:target="_blank"}  
   
 A Novel Approach for Classification of Hand Movements using Surface EMG Signals  
 M.Z.Rehman, S.O.Gilani, A.Waris, I.K.Niazi, E.N.Kamavuako  
@@ -311,7 +311,7 @@ International Journal of Biomedical Engineering and Technology, vol 20(3), pp 19
   
 A Robust Model Predictive Control for Balancing of an Inverted Pendulum  
 A.Aimal, M.Jamil, O.S.Gilani, Q.Awais, vol 9, pp , 2016  
-**DOI:** [v9i25/96604](https://dx.doi.org/v9i25/96604)  
+**DOI:** [v9i25/96604](https://dx.doi.org/v9i25/96604){:target="_blank"}  
   
 Automated Scene Analysis by Image Feature Extraction  
 S.O.Gilani, M.Jamil, Z.Fazal, M.S.Naveed, R.Sakina  
@@ -415,7 +415,7 @@ Arabian Journal for Science and Engineering, vol 40(9), pp 2653--2670, 2015, IF 
 Comparative Analysis of Classifiers for Developing an Adaptive Computer-Assisted EEG Analysis System for Diagnosing Epilepsy  
 M.A.Ahmad, Y.Ayaz, M.Jamil, S.O.Gilani, M.B.Rasheed, M.Imran, N.A.Khan, W.Majeed, N.Javaid  
 BioMed research international, vol 2015, pp 1--14, 2015, IF 1.57  
-**DOI:** [2015/638036](https://dx.doi.org/2015/638036)  
+**DOI:** [2015/638036](https://dx.doi.org/2015/638036){:target="_blank"}  
   
 Motor Imagery Based EEG Signal Classification Using Self Organizing Maps  
 M.Z.Baig, Y.Ayaz, S.O.Gilani, M.Jamil, M.Naveed  
@@ -424,12 +424,12 @@ Science International (Lahore), vol 2, pp 1165--1170, 2015
 A Novel Dual-Loop Control Scheme for Payload Anti-Swing and Trolley Position of Industrial Robotic 3DOF Crane  
 M.Faisal, M.Jamil, U.Rashid, S.O.Gilani, Y.Ayaz, M.N.Khan  
 Applied Mechanics and Materials, vol 789, pp 658--664, 2015  
-**DOI:** [www.scientific.net/AMM.789-790.658](https://dx.doi.org/www.scientific.net/AMM.789-790.658)  
+**DOI:** [www.scientific.net/AMM.789-790.658](https://dx.doi.org/www.scientific.net/AMM.789-790.658){:target="_blank"}  
   
 Text Detection and Recognition for Semantic Mapping in Indoor Navigation  
 M.Sami, Y.Ayaz, M.Jamil, S.O.Gilani, M.Naveed  
 5th IEEE International Conference on IT Convergence and Security - ICITCS, pp 1--4, 2015, Kuala Lumpur  
-**DOI:** [10.1109/ICITCS.2015.7293024](https://dx.doi.org/10.1109/ICITCS.2015.7293024)  
+**DOI:** [10.1109/ICITCS.2015.7293024](https://dx.doi.org/10.1109/ICITCS.2015.7293024){:target="_blank"}  
   
 LQR based training of adaptive neuro-fuzzy controller  
 U.Rashid, M.Jamil, S.O.Gilani, I.K.Niazi  
@@ -454,17 +454,17 @@ Indian Journal of Science and Technology, vol 8(16), 2015, Scopus
 Coherency based spatio-temporal saliency detection for video object segmentation  
 M.Dwarikanath, S.O.Gilani, M.K.Saini  
 IEEE Journal of Selected Topics in Signal Processing, vol 8(3), pp 454--462, 2014, IF 2.37  
-**DOI:** [10.1109/JSTSP.2014.2315874](https://dx.doi.org/10.1109/JSTSP.2014.2315874)  
+**DOI:** [10.1109/JSTSP.2014.2315874](https://dx.doi.org/10.1109/JSTSP.2014.2315874){:target="_blank"}  
   
 Classification of left/right hand movement from EEG signal by intelligent algorithms  
 M.Z.Baig, E.Javed, Y.Ayaz, W.Afzal, S.O.Gilani, M.Naveed, M.Jamil  
 2014 IEEE Symposium on Computer Applications and Industrial Electronics - ISCAIE, pp 163--168, 2014, Malaysia  
-**DOI:** [10.1109/ISCAIE.2014.7010230](https://dx.doi.org/10.1109/ISCAIE.2014.7010230)  
+**DOI:** [10.1109/ISCAIE.2014.7010230](https://dx.doi.org/10.1109/ISCAIE.2014.7010230){:target="_blank"}  
   
 Evaluation of LDA, QDA and decision trees for multifunctional controlled below elbow prosthetic limb using EMG signals  
 F.Muhammad, N.Rashid, H.Akhtar, Z.Muhammad, S.O.Gilani, U.Ansari  
 2014 IEEE International Conference on Robotics and Emerging Allied Technologies in Engineering - iCREATE, pp 115--117, 2014, Pakistan  
-**DOI:** [10.1109/iCREATE.2014.6828350](https://dx.doi.org/10.1109/iCREATE.2014.6828350)  
+**DOI:** [10.1109/iCREATE.2014.6828350](https://dx.doi.org/10.1109/iCREATE.2014.6828350){:target="_blank"}  
   
 Centre of mass avoidance planner using radius of gyration for Reciprocal Velocity Obstacles  
 Y.Shahwar, Y.Ayaz, K.F.Iqbal, M.Naveed, S.O.Gilani, M.Jamil, S.I.Ali  
@@ -488,7 +488,7 @@ International Journal of Biology and Biomedical Engineering, vol 8, pp 15--20, 2
   
 Visual Attention in Dynamic Natural Scenes  
 S.O.Gilani  
-**DOI:** [10635/43411](http://scholarbank.nus.edu.sg/handle/10635/43411)  
+**DOI:** [10635/43411](http://scholarbank.nus.edu.sg/handle/10635/43411){:target="_blank"}  
   
 Optimal Control based Intelligent Controller for Active Suspension System  
 M.Jamil, A.A.Janjua, I.Rafique, S.I.Butt, Y.Ayaz, S.O.Gilani  
@@ -497,7 +497,7 @@ Life Science Journal, vol 10(12s), 2013, IF 0.16
 Parallel programming of saccades during natural scene viewing: Evidence from eye movement positions  
 E.X.Wu, S.O.Gilani, J.J.Boxtel, I.Amihai, F.K.Chua, S.Yen  
 Journal of vision, vol 13(12), pp 17, 2013, IF 2.39  
-**DOI:** [10.1167/13.12.17](https://dx.doi.org/10.1167/13.12.17)  
+**DOI:** [10.1167/13.12.17](https://dx.doi.org/10.1167/13.12.17){:target="_blank"}  
   
 Modeling and Control of a Non-Linear Quarter Vehicle Suspension System Using Hybrid Fuzzy-LQR Controller  
 M.Jamil, A.A.Janjua, I.Rafique, A.Mehmood, Y.Ayaz, S.O.Gilani  
@@ -534,7 +534,7 @@ RECENT ADVANCES in BIOLOGY, MEDICAL PHYSICS, MEDICAL CHEMISTRY, BIOCHEMISTRY and
 Optimization of Fixations during Scene Viewing  
 E.X.Wu, S.O.Gilani, J.J.Boxtel, I.Amihai, F.K.Chua, S.Yen  
 Journal of Vision, vol 12(9), pp 1018--1018, 2012, IF 2.39  
-**DOI:** [10.1167/12.9.1018](https://dx.doi.org/10.1167/12.9.1018)  
+**DOI:** [10.1167/12.9.1018](https://dx.doi.org/10.1167/12.9.1018){:target="_blank"}  
   
 Gist Modulated Saliency in Videos  
 S.O.Gilani, F.K.Chua, S.C.Yen  
@@ -551,7 +551,7 @@ S.O.Gilani, F.K.Chua
 Fixation durations during scene transitions  
 S.O.Gilani, F.K.Chua, S.Yen  
 Journal of Vision, vol 11(11), pp 512--512, 2011, IF 2.39  
-**DOI:** [10.1167/11.11.512](https://dx.doi.org/10.1167/11.11.512)  
+**DOI:** [10.1167/11.11.512](https://dx.doi.org/10.1167/11.11.512){:target="_blank"}  
   
 Spatio Temporal Saliency Modelling in Videos  
 S.O.Gilani  
@@ -583,7 +583,7 @@ Proceedings of HCI International, pp , 2007, China
   
 Vision--based projected tabletop interface for finger interactions  
 P.Song, S.Winkler, S.O.Gilani, Z.Zhou  
-**DOI:** [10.1007/978-3-540-75773-3_6](https://dx.doi.org/10.1007/978-3-540-75773-3_6)  
+**DOI:** [10.1007/978-3-540-75773-3_6](https://dx.doi.org/10.1007/978-3-540-75773-3_6){:target="_blank"}  
   
   
 # 2006  
