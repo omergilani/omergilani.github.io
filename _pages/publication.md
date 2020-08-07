@@ -9,9 +9,9 @@ redirect_from:
   
 {% include base_path %}
 
-## 2020  
+# 2020  
   
-(7) Journal  
+<sub> (7) Journal </sub>  
   
 Improving fuel cell performance via optimal parameters identification through fuzzy logic based-modeling and optimization  
 W.H.Tanveer, H.Rezk, A.Nassef, M.A.Abdelkareem, B.Kolosz, K.Karuppasamy, J.Aslam, S.O.Gilani  
@@ -48,9 +48,9 @@ M.{Jamil}, A.{Waris}, S.O.{Gilani}, B.A.{Khawaja}, M.N.{Khan}, A.{Raza}
 IEEE Access, vol 8, pp 30603-30614, 2020, IF 4.1  
 **DOI:** [10.1109/ACCESS.2020.2973168](https://dx.doi.org/10.1109/ACCESS.2020.2973168)
 
-## 2019  
+# 2019  
   
-(7) Journal, (8) Conference  
+<sub> (7) Journal </sub>, <sub> (8) Conference </sub>  
   
 Numerical Simulation of Inline Arrangement of Spheroid Particles in Different Orientations  
 A.Jamil, E.Uddin, A.A.Zaidi, Z.Ali, J.Aslam, S.O.Gilani  
@@ -125,9 +125,9 @@ A.Raza, A.Mustafa, K.Rouzbehi, M.Jamil, S.O.Gilani, G.Abbas, U.Farooq, M.N.Shehz
 IEEE Access, vol 7, pp 92642-92650, 2019, IF 4.1  
 **DOI:** [10.1109/ACCESS.2019.2925049](https://dx.doi.org/10.1109/ACCESS.2019.2925049)
 
-## 2018  
+# 2018  
   
-(10) Journal, (6) Conference, (2) Book Chapter  
+<sub> (10) Journal </sub>, <sub> (6) Conference </sub>, <sub> (2) Book Chapter </sub>  
   
 Multi-Objective Optimization of VSC Stations in Multi-Terminal VSC-HVdc Grids, Based on PSO  
 A.Raza, Z.Yousaf, M.Jamil, S.O.Gilani, G.Abbas, M.Uzair, S.Shaheen, A.Benrabah, F.Li  
@@ -211,9 +211,9 @@ M.Jamil, S.Zafar, S.O.Gilani
 Utilizing implicit user cues for multimedia analytics  
 S.Ramanathan, S.O.Gilani, N.Sebe
 
-## 2017  
+# 2017  
   
-(9) Journal, (11) Conference  
+<sub> (9) Journal </sub>, <sub> (11) Conference </sub>  
   
 Power Dispatch and Voltage Control in Multiterminal HVDC Systems: A Flexible Approach  
 A.Raza, Y.Liu, K.Rouzbehi, M.Jamil, S.O.Gilani, X.Dianguo, B.W.Williams  
@@ -297,9 +297,9 @@ High Throughput Multimodal Neuroimaging for Alzheimers Disease AD
 S.Fatima, M.Jamil, S.Gilani  
 Proceeding of 3rd International Conference on Green Computing and Engineering Technologies - ICGCET-2017, 2017, Killaloe, Ireland
 
-## 2016  
+# 2016  
   
-(12) Journal, (10) Conference, (1) Book Chapter  
+<sub> (12) Journal </sub>, <sub> (10) Conference </sub>, <sub> (1) Book Chapter </sub>  
   
 Audio signals test in designing a cost effective hearing aid device using a microcontroller  
 M.Z.Rehman, S.I.Shah, M.Javaid, S.O.Gilani, U.Ansari  
@@ -392,9 +392,9 @@ Review of fiducial and non-fiducial techniques of feature extraction in ECG base
 Z.Hassan, S.O.Gilani, M.Jamil  
 Indian Journal of Science and Technology, vol 9(21), 2016, Scopus
 
-## 2015  
+# 2015  
   
-(8) Journal, (3) Conference  
+<sub> (8) Journal </sub>, <sub> (3) Conference </sub>  
   
 Saliency Based Object Detection and Enhancements Using Spectral Residual Approach in Static Images and Videos  
 M.S.Azam, S.O.Gilani, M.Jamil, Y.Ayaz, M.Naveed, M.N.Khan  
@@ -443,9 +443,9 @@ Iterative Linear Quadratic Regulator (ILQR) controller for trolley position cont
 M.Faisal, M.Jamil, Q.Awais, U.Rashid, M.S.Gilani, Y.Ayaz, M.N.Khan  
 Indian Journal of Science and Technology, vol 8(16), 2015, Scopus
 
-## 2014  
+# 2014  
   
-(2) Journal, (5) Conference  
+<sub> (2) Journal </sub>, <sub> (5) Conference </sub>  
   
 Coherency based spatio-temporal saliency detection for video object segmentation  
 M.Dwarikanath, S.O.Gilani, M.K.Saini  
@@ -478,9 +478,9 @@ Classification of Functional Motions of Hand for Upper Limb Prosthesis with Surf
 M.A.Waris, M.Jamil, Y.Ayaz, S.O.Gilani  
 International Journal of Biology and Biomedical Engineering, vol 8, pp 15--20, 2014
 
-## 2013  
+# 2013  
   
-(4) Journal, (4) Conference, (1) Patent, (1) Thesis  
+<sub> (4) Journal </sub>, <sub> (4) Conference </sub>, <sub> (1) Patent </sub>, <sub> (1) Thesis </sub>  
   
 Visual Attention in Dynamic Natural Scenes  
 S.O.Gilani  
@@ -523,9 +523,9 @@ Control of Upper Limb Active Prosthesis Using Surface Electromyography
 M.A.Waris, M.Jamil, S.O.Gilani, Y.Ayaz  
 RECENT ADVANCES in BIOLOGY, MEDICAL PHYSICS, MEDICAL CHEMISTRY, BIOCHEMISTRY and BIOMEDICAL ENGINEERING, pp 47, 2013
 
-## 2012  
+# 2012  
   
-(1) Journal, (2) Conference  
+<sub> (1) Journal </sub>, <sub> (2) Conference </sub>  
   
 Optimization of Fixations during Scene Viewing  
 E.X.Wu, S.O.Gilani, J.J.Boxtel, I.Amihai, F.K.Chua, S.Yen  
@@ -540,9 +540,9 @@ Temporal Properties and Correlates of Fixation in Videos
 S.O.Gilani, F.K.Chua  
 2nd ECE Graduate Student Symposium, National University of Singapore, 2012, Singapore
 
-## 2011  
+# 2011  
   
-(1) Journal, (2) Conference  
+<sub> (1) Journal </sub>, <sub> (2) Conference </sub>  
   
 Fixation durations during scene transitions  
 S.O.Gilani, F.K.Chua, S.Yen  
@@ -557,9 +557,9 @@ Scene Transitions Effects Fixation Length in Movies
 S.O.Gilani, F.K.Chua  
 Decade of Mind IV, 2011, Singapore
 
-## 2008  
+# 2008  
   
-(1) Journal, (1) Conference  
+<sub> (1) Journal </sub>, <sub> (1) Conference </sub>  
   
 wIzQubes - A novel tangible interface for interactive storytelling in mixed reality  
 Z.Zhou, A.D.Cheok, J.Tedjokusumo, S.O.Gilani  
@@ -569,9 +569,9 @@ Open source OCR framework using mobile devices
 S.Z.Zhou, S.O.Gilani, S.Winkler  
 SPIE Electronic Imaging, pp , 2008, USA
 
-## 2007  
+# 2007  
   
-(1) Conference, (1) Book Chapter  
+<sub> (1) Conference </sub>, <sub> (1) Book Chapter </sub>  
   
 What You Write Is What You Get: A Novel Mixed Reality Interface  
 Z.Zhou, S.O.Gilani, S.Winkler  
@@ -581,9 +581,9 @@ Vision--based projected tabletop interface for finger interactions
 P.Song, S.Winkler, S.O.Gilani, Z.Zhou  
 **DOI:** [10.1007/978-3-540-75773-3_6](https://dx.doi.org/10.1007/978-3-540-75773-3_6)
 
-## 2006  
+# 2006  
   
-(1) Conference  
+<sub> (1) Conference </sub>  
   
 Road sign detection and recognition using fuzzy artmap: A case study swedish speed-limit signs  
 H.Fleyeh, S.O.Gilani, M.Dougherty  
