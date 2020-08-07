@@ -7,11 +7,15 @@ redirect_from:
   - /resume  
 ---  
   
-{% include base_path %}
+{% include base_path %}  
+  
+(62)Journal, (54)Conference, (4)Book Chapter, (1)Patent, (1)Thesis,   
+  
+
 
 # 2020  
   
-<sub> (7) Journal </sub>  
+<sub> (7)Journal</sub>  
   
 Improving fuel cell performance via optimal parameters identification through fuzzy logic based-modeling and optimization  
 W.H.Tanveer, H.Rezk, A.Nassef, M.A.Abdelkareem, B.Kolosz, K.Karuppasamy, J.Aslam, S.O.Gilani  
@@ -50,7 +54,7 @@ IEEE Access, vol 8, pp 30603-30614, 2020, IF 4.1
 
 # 2019  
   
-<sub> (7) Journal </sub>, <sub> (8) Conference </sub>  
+<sub> (7)Journal</sub>, <sub> (8)Conference</sub>  
   
 Numerical Simulation of Inline Arrangement of Spheroid Particles in Different Orientations  
 A.Jamil, E.Uddin, A.A.Zaidi, Z.Ali, J.Aslam, S.O.Gilani  
@@ -127,7 +131,7 @@ IEEE Access, vol 7, pp 92642-92650, 2019, IF 4.1
 
 # 2018  
   
-<sub> (10) Journal </sub>, <sub> (6) Conference </sub>, <sub> (2) Book Chapter </sub>  
+<sub> (10)Journal</sub>, <sub> (6)Conference</sub>, <sub> (2)Book Chapter</sub>  
   
 Multi-Objective Optimization of VSC Stations in Multi-Terminal VSC-HVdc Grids, Based on PSO  
 A.Raza, Z.Yousaf, M.Jamil, S.O.Gilani, G.Abbas, M.Uzair, S.Shaheen, A.Benrabah, F.Li  
@@ -213,7 +217,7 @@ S.Ramanathan, S.O.Gilani, N.Sebe
 
 # 2017  
   
-<sub> (9) Journal </sub>, <sub> (11) Conference </sub>  
+<sub> (9)Journal</sub>, <sub> (11)Conference</sub>  
   
 Power Dispatch and Voltage Control in Multiterminal HVDC Systems: A Flexible Approach  
 A.Raza, Y.Liu, K.Rouzbehi, M.Jamil, S.O.Gilani, X.Dianguo, B.W.Williams  
@@ -299,7 +303,7 @@ Proceeding of 3rd International Conference on Green Computing and Engineering Te
 
 # 2016  
   
-<sub> (12) Journal </sub>, <sub> (10) Conference </sub>, <sub> (1) Book Chapter </sub>  
+<sub> (12)Journal</sub>, <sub> (10)Conference</sub>, <sub> (1)Book Chapter</sub>  
   
 Audio signals test in designing a cost effective hearing aid device using a microcontroller  
 M.Z.Rehman, S.I.Shah, M.Javaid, S.O.Gilani, U.Ansari  
@@ -394,7 +398,7 @@ Indian Journal of Science and Technology, vol 9(21), 2016, Scopus
 
 # 2015  
   
-<sub> (8) Journal </sub>, <sub> (3) Conference </sub>  
+<sub> (8)Journal</sub>, <sub> (3)Conference</sub>  
   
 Saliency Based Object Detection and Enhancements Using Spectral Residual Approach in Static Images and Videos  
 M.S.Azam, S.O.Gilani, M.Jamil, Y.Ayaz, M.Naveed, M.N.Khan  
@@ -445,7 +449,7 @@ Indian Journal of Science and Technology, vol 8(16), 2015, Scopus
 
 # 2014  
   
-<sub> (2) Journal </sub>, <sub> (5) Conference </sub>  
+<sub> (2)Journal</sub>, <sub> (5)Conference</sub>  
   
 Coherency based spatio-temporal saliency detection for video object segmentation  
 M.Dwarikanath, S.O.Gilani, M.K.Saini  
@@ -480,7 +484,7 @@ International Journal of Biology and Biomedical Engineering, vol 8, pp 15--20, 2
 
 # 2013  
   
-<sub> (4) Journal </sub>, <sub> (4) Conference </sub>, <sub> (1) Patent </sub>, <sub> (1) Thesis </sub>  
+<sub> (4)Journal</sub>, <sub> (4)Conference</sub>, <sub> (1)Patent</sub>, <sub> (1)Thesis</sub>  
   
 Visual Attention in Dynamic Natural Scenes  
 S.O.Gilani  
@@ -525,7 +529,7 @@ RECENT ADVANCES in BIOLOGY, MEDICAL PHYSICS, MEDICAL CHEMISTRY, BIOCHEMISTRY and
 
 # 2012  
   
-<sub> (1) Journal </sub>, <sub> (2) Conference </sub>  
+<sub> (1)Journal</sub>, <sub> (2)Conference</sub>  
   
 Optimization of Fixations during Scene Viewing  
 E.X.Wu, S.O.Gilani, J.J.Boxtel, I.Amihai, F.K.Chua, S.Yen  
@@ -542,7 +546,7 @@ S.O.Gilani, F.K.Chua
 
 # 2011  
   
-<sub> (1) Journal </sub>, <sub> (2) Conference </sub>  
+<sub> (1)Journal</sub>, <sub> (2)Conference</sub>  
   
 Fixation durations during scene transitions  
 S.O.Gilani, F.K.Chua, S.Yen  
@@ -559,7 +563,7 @@ Decade of Mind IV, 2011, Singapore
 
 # 2008  
   
-<sub> (1) Journal </sub>, <sub> (1) Conference </sub>  
+<sub> (1)Journal</sub>, <sub> (1)Conference</sub>  
   
 wIzQubes - A novel tangible interface for interactive storytelling in mixed reality  
 Z.Zhou, A.D.Cheok, J.Tedjokusumo, S.O.Gilani  
@@ -571,7 +575,7 @@ SPIE Electronic Imaging, pp , 2008, USA
 
 # 2007  
   
-<sub> (1) Conference </sub>, <sub> (1) Book Chapter </sub>  
+<sub> (1)Conference</sub>, <sub> (1)Book Chapter</sub>  
   
 What You Write Is What You Get: A Novel Mixed Reality Interface  
 Z.Zhou, S.O.Gilani, S.Winkler  
@@ -583,7 +587,7 @@ P.Song, S.Winkler, S.O.Gilani, Z.Zhou
 
 # 2006  
   
-<sub> (1) Conference </sub>  
+<sub> (1)Conference</sub>  
   
 Road sign detection and recognition using fuzzy artmap: A case study swedish speed-limit signs  
 H.Fleyeh, S.O.Gilani, M.Dougherty  
