@@ -1,4 +1,13 @@
-
+---  
+layout: archive  
+title: "Publications"  
+permalink: /publication/  
+author_profile: true  
+redirect_from:  
+  - /resume  
+---  
+  
+{% include base_path %}
 
  ## 2020  
 (7) Journal  
