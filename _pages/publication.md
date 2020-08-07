@@ -9,10 +9,10 @@ redirect_from:
   
 {% include base_path %}  
   
-(62)Journal, (54)Conference, (4)Book Chapter, (1)Patent, (1)Thesis,   
+<sub>(62)Journal, (54)Conference, (4)Book Chapter, (1)Patent, (1)Thesis, </sub>  
   
-
-
+  
+  
 # 2020  
   
 <sub> (7)Journal</sub>  
@@ -50,8 +50,8 @@ Sensors, vol 20(6), 2020, IF 3.03
 Design of Robust Higher Order Repetitive Controller Using Phase Lead Compensator  
 M.{Jamil}, A.{Waris}, S.O.{Gilani}, B.A.{Khawaja}, M.N.{Khan}, A.{Raza}  
 IEEE Access, vol 8, pp 30603-30614, 2020, IF 4.1  
-**DOI:** [10.1109/ACCESS.2020.2973168](https://dx.doi.org/10.1109/ACCESS.2020.2973168)
-
+**DOI:** [10.1109/ACCESS.2020.2973168](https://dx.doi.org/10.1109/ACCESS.2020.2973168)  
+  
 # 2019  
   
 <sub> (7)Journal</sub>, <sub> (8)Conference</sub>  
@@ -127,8 +127,8 @@ M.N.Khan, S.O.Gilani, M.Jamil, A.Raza
 Optimal Power Flow and Unified Control Strategy for Multi-Terminal HVDC Systems  
 A.Raza, A.Mustafa, K.Rouzbehi, M.Jamil, S.O.Gilani, G.Abbas, U.Farooq, M.N.Shehzad  
 IEEE Access, vol 7, pp 92642-92650, 2019, IF 4.1  
-**DOI:** [10.1109/ACCESS.2019.2925049](https://dx.doi.org/10.1109/ACCESS.2019.2925049)
-
+**DOI:** [10.1109/ACCESS.2019.2925049](https://dx.doi.org/10.1109/ACCESS.2019.2925049)  
+  
 # 2018  
   
 <sub> (10)Journal</sub>, <sub> (6)Conference</sub>, <sub> (2)Book Chapter</sub>  
@@ -213,8 +213,8 @@ Designing PID Controller Based Semi-active Suspension System Using MATLAB Simuli
 M.Jamil, S.Zafar, S.O.Gilani  
   
 Utilizing implicit user cues for multimedia analytics  
-S.Ramanathan, S.O.Gilani, N.Sebe
-
+S.Ramanathan, S.O.Gilani, N.Sebe  
+  
 # 2017  
   
 <sub> (9)Journal</sub>, <sub> (11)Conference</sub>  
@@ -299,8 +299,8 @@ Proceeding of 3rd International Conference on Green Computing and Engineering Te
   
 High Throughput Multimodal Neuroimaging for Alzheimers Disease AD  
 S.Fatima, M.Jamil, S.Gilani  
-Proceeding of 3rd International Conference on Green Computing and Engineering Technologies - ICGCET-2017, 2017, Killaloe, Ireland
-
+Proceeding of 3rd International Conference on Green Computing and Engineering Technologies - ICGCET-2017, 2017, Killaloe, Ireland  
+  
 # 2016  
   
 <sub> (12)Journal</sub>, <sub> (10)Conference</sub>, <sub> (1)Book Chapter</sub>  
@@ -394,8 +394,8 @@ Indian Journal of Science and Technology, vol 9(46), 2016, Scopus
   
 Review of fiducial and non-fiducial techniques of feature extraction in ECG based biometric systems  
 Z.Hassan, S.O.Gilani, M.Jamil  
-Indian Journal of Science and Technology, vol 9(21), 2016, Scopus
-
+Indian Journal of Science and Technology, vol 9(21), 2016, Scopus  
+  
 # 2015  
   
 <sub> (8)Journal</sub>, <sub> (3)Conference</sub>  
@@ -445,8 +445,8 @@ International Journal of Control and Automation, vol 8(8), pp 203--212, 2015, Sc
   
 Iterative Linear Quadratic Regulator (ILQR) controller for trolley position control of quanser 3DOF Crane  
 M.Faisal, M.Jamil, Q.Awais, U.Rashid, M.S.Gilani, Y.Ayaz, M.N.Khan  
-Indian Journal of Science and Technology, vol 8(16), 2015, Scopus
-
+Indian Journal of Science and Technology, vol 8(16), 2015, Scopus  
+  
 # 2014  
   
 <sub> (2)Journal</sub>, <sub> (5)Conference</sub>  
@@ -480,8 +480,8 @@ Robotics and Emerging Allied Technologies in Engineering (iCREATE), 2014 Interna
   
 Classification of Functional Motions of Hand for Upper Limb Prosthesis with Surface Electromyography  
 M.A.Waris, M.Jamil, Y.Ayaz, S.O.Gilani  
-International Journal of Biology and Biomedical Engineering, vol 8, pp 15--20, 2014
-
+International Journal of Biology and Biomedical Engineering, vol 8, pp 15--20, 2014  
+  
 # 2013  
   
 <sub> (4)Journal</sub>, <sub> (4)Conference</sub>, <sub> (1)Patent</sub>, <sub> (1)Thesis</sub>  
@@ -525,8 +525,8 @@ S.Z.Zhou, S.O.Gilani
   
 Control of Upper Limb Active Prosthesis Using Surface Electromyography  
 M.A.Waris, M.Jamil, S.O.Gilani, Y.Ayaz  
-RECENT ADVANCES in BIOLOGY, MEDICAL PHYSICS, MEDICAL CHEMISTRY, BIOCHEMISTRY and BIOMEDICAL ENGINEERING, pp 47, 2013
-
+RECENT ADVANCES in BIOLOGY, MEDICAL PHYSICS, MEDICAL CHEMISTRY, BIOCHEMISTRY and BIOMEDICAL ENGINEERING, pp 47, 2013  
+  
 # 2012  
   
 <sub> (1)Journal</sub>, <sub> (2)Conference</sub>  
@@ -542,8 +542,8 @@ S.O.Gilani, F.K.Chua, S.C.Yen
   
 Temporal Properties and Correlates of Fixation in Videos  
 S.O.Gilani, F.K.Chua  
-2nd ECE Graduate Student Symposium, National University of Singapore, 2012, Singapore
-
+2nd ECE Graduate Student Symposium, National University of Singapore, 2012, Singapore  
+  
 # 2011  
   
 <sub> (1)Journal</sub>, <sub> (2)Conference</sub>  
@@ -559,8 +559,8 @@ S.O.Gilani
   
 Scene Transitions Effects Fixation Length in Movies  
 S.O.Gilani, F.K.Chua  
-Decade of Mind IV, 2011, Singapore
-
+Decade of Mind IV, 2011, Singapore  
+  
 # 2008  
   
 <sub> (1)Journal</sub>, <sub> (1)Conference</sub>  
@@ -571,8 +571,8 @@ International Journal of Virtual Reality, vol 7(4), pp 9--15, 2008
   
 Open source OCR framework using mobile devices  
 S.Z.Zhou, S.O.Gilani, S.Winkler  
-SPIE Electronic Imaging, pp , 2008, USA
-
+SPIE Electronic Imaging, pp , 2008, USA  
+  
 # 2007  
   
 <sub> (1)Conference</sub>, <sub> (1)Book Chapter</sub>  
@@ -583,8 +583,8 @@ Proceedings of HCI International, pp , 2007, China
   
 Vision--based projected tabletop interface for finger interactions  
 P.Song, S.Winkler, S.O.Gilani, Z.Zhou  
-**DOI:** [10.1007/978-3-540-75773-3_6](https://dx.doi.org/10.1007/978-3-540-75773-3_6)
-
+**DOI:** [10.1007/978-3-540-75773-3_6](https://dx.doi.org/10.1007/978-3-540-75773-3_6)  
+  
 # 2006  
   
 <sub> (1)Conference</sub>  
