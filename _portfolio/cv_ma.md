@@ -87,14 +87,14 @@ Tahseen Akhtar
 ## Miscellaneous projets
 
 ### OCR Based application
-<img align="left" src="/images/ocr.png" width="20%">
+<img align="right" src="/images/ocr.png" width="20%">
 
 - M. Sami et al., Text detection and recognition for semantic mapping in indoor navigation, in IEEE ICITCS (Malaysia), 2015
 - S. Z. Zhou et al., Open source OCR framework using mobile devices, in SPIE-EI (USA), 2008
 
 
 ### Augmented/Virtual Reality
-<img align="left" src="/images/ar.png" width="20%">
+<img align="right" src="/images/ar.png" width="20%">
 
 - S. O. Gilani, Interactive transcription system and method, US Patent 8,358,320, 2013
 - Z. Zhou et al., Wizqubes - a novel tangible interface for interactive storytelling in mixed reality, IJVR, vol. 7, no. (4), 9–15, 2008
@@ -103,7 +103,7 @@ Tahseen Akhtar
 
 
 ### Scene Understanding
-<img align="left" src="/images/su.png" width="20%">
+<img align="right" src="/images/su.png" width="20%">
 
 - S. O. Gilani et al., Automated scene analysis by image feature extraction, in IEEE PiCom (Auckland), 530–536, 2016
 - S. O. Gilani et al., Scene transitions effects fixation length in movies, in Decade of Mind IV (Singapore), 2011
