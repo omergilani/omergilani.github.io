@@ -31,10 +31,11 @@ I regularly offer courses at undergraduate and postgraduate levels
 | RIME943: Special Topics for PhD Program (Machine Vision) (3-0)| Fall, 18   |
 
 
+
 ## Undergraduate Courses
 
 | Courses       | Term           |
 | ---           | --:            |
 | CS102: Computer Systems & Programming  (2-2)                  | Fall, 13-14-15-16-17-18-19 |
-| EE476: Introduction to Robotics  (2-2)                        | Spring, 14|
-| EE103: Electrical Engineering  (2-1)                          | Spring, 15-16 |
+| EE476: Introduction to Robotics  (2-2)                        | Spring, 14                 |
+| EE103: Electrical Engineering  (2-1)                          | Spring, 15-16              |
