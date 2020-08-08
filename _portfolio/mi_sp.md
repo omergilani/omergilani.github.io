@@ -1,6 +1,6 @@
 ---
 title: "Medical Image and Signal Processing"
-excerpt: "Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS based BCI, Lung cancer detection, Bone fracture detection, Retinal image analysis, Mammogram analysis, ECG and EEG analysis <br/><img src='/images/premg.png' width='60%''>"
+excerpt: "Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS based BCI, Lung cancer detection, Bone fracture detection, Retinal image analysis, Mammogram analysis, ECG and EEG analysis <br/><img src='/images/premg.png' width='60%'>"
 collection: portfolio
 ---
 
@@ -78,8 +78,8 @@ Zia ur rehman
 Bone is tough, locomotive tissue of the body which is often subjected to fractures and degenerative disorders. For diagnostic purposes, clinician readily use X-Ray imaging. This provides researcher with ample opportunity to utilize image processing and analysis techniques for automated detections. Our work has focused on detecting these bone fractures and different types arthritis; Osteoarthritis Arthritis (OA) and rheumatoid Arthritis (RA).
 
 ### Publications
-Najwa et al., Ground Truth Annotation, Analysis and Release of Data set of Radiographic Images of Bone Fractures, under review
-H.Hayat et al., Arthritis identification from multiple regions by X-ray image processing, in International Journal of Signal Processing, Image Processing and Pattern Recognition, vol. 10, no. (11), 23–32, 2017
+- Najwa et al., Ground Truth Annotation, Analysis and Release of Data set of Radiographic Images of Bone Fractures, under review
+- H.Hayat et al., Arthritis identification from multiple regions by X-ray image processing, in International Journal of Signal Processing, Image Processing and Pattern Recognition, vol. 10, no. (11), 23–32, 2017
 
 ### Members:  
 Hunza Hayat, Najwa Farooq
@@ -104,7 +104,7 @@ Tooba, Naireen Zaheer, Namra Rauf
 <img align="right" src="/images/mammograms.png" width="20%">
 
 - F. Zahra et al., Automated Segmentation and Classification of Lesion on Breast Ultrasound, Internal Technical Report, 2014
-- 
+-
 
 
 ### Analysis of Electrocardiography (ECG)
