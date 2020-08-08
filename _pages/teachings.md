@@ -14,7 +14,7 @@ I regularly offer courses at undergraduate and postgraduate levels
 ## Graduate Courses
 
 | Courses       | Term          |
-| ------------- | -------------: |
+| ---           | --:           |
 | BMES813: Biomedical Instrumentation  (3-0)                    | Spring, 13  |
 | BMES811: Signal & Imaging in Medicine  (3-0)                  | Spring, 13-14-16-17-18-19|
 | BMES 814: Neural Engineering  (3-0)                           | Summer, 13 |
@@ -32,8 +32,9 @@ I regularly offer courses at undergraduate and postgraduate levels
 
 
 ## Undergraduate Courses
-| Courses       | Term          |
-| ------------- | -------------: |
+
+| Courses       | Term           |
+| ---           | --:            |
 | CS102: Computer Systems & Programming  (2-2)                  | Fall, 13-14-15-16-17-18-19 |
 | EE476: Introduction to Robotics  (2-2)                        | Spring, 14|
 | EE103: Electrical Engineering  (2-1)                          | Spring, 15-16 |
