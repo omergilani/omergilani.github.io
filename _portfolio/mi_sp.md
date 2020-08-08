@@ -1,6 +1,6 @@
 ---
 title: "Medical Image and Signal Processing"
-excerpt: "Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS based BCI, Lung cancer detection, Bone fracture detection, Retinal image analysis, Mammogram analysis, ECG and EEG analysis <br/><img src='/images/visual_Attention.png'>"
+excerpt: "Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS based BCI, Lung cancer detection, Bone fracture detection, Retinal image analysis, Mammogram analysis, ECG and EEG analysis <br/><img src='/images/premg.png'>"
 collection: portfolio
 ---
 
