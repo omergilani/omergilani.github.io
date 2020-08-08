@@ -1,6 +1,6 @@
 ---
 title: "Medical Image and Signal Processing"
-excerpt: "Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS based BCI, Lung cancer detection, Bone fracture detection, Retinal image analysis, Mammogram analysis, ECG and EEG analysis <br/><img src='/images/premg.png'>"
+excerpt: "Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS based BCI, Lung cancer detection, Bone fracture detection, Retinal image analysis, Mammogram analysis, ECG and EEG analysis <br/><img src='/images/premg.png' width='60%''>"
 collection: portfolio
 ---
 
@@ -104,6 +104,7 @@ Tooba, Naireen Zaheer, Namra Rauf
 <img align="right" src="/images/mammograms.png" width="20%">
 
 - F. Zahra et al., Automated Segmentation and Classification of Lesion on Breast Ultrasound, Internal Technical Report, 2014
+- 
 
 
 ### Analysis of Electrocardiography (ECG)
