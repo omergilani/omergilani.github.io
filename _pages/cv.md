@@ -22,14 +22,14 @@ Professional Recognition
 * Member Institute of Mechanical Engineers (MIMechE) U.K.
 * Senior Member Institute of Electrical and Electronics Engineers (SMIEEE) U.S.A.
 
-Work experience
+Work Experience
 ======
 * 2013 - ---- : **Assistant Professor**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
 * 2006 - 2008 : **Research Engineer**, Department of Electrical & Computer Engineering, NUS, Singapore
 * 2004 - 2006 : **Research Assistant**, Department of Computer Engineering - ITRG, Dalarana University, Sweden
 
 
-Grants
+Research Grants
 ======
 * 2019-2022 : Automatic and Adaptive Control system for Improved Myoelectric Control (6 MPKR)
   * HEC-NRPU 2017, Approval 13-Feb-2019
@@ -45,15 +45,3 @@ Grants
   * RAC-II 2015-16, Approval 7-Apr-2016  
 * 2015-2016 : Development of Saliency Model for Dynamic Scenes (0.27 MPKR)
   * HEC-SRGP 2014, Approval 23-Jan-2015
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include publication.md %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include teachings.md %}
-  {% endfor %}</ul>
