@@ -49,11 +49,11 @@ Grants
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% pages publication.md %}
+    {% include publication.md %}
   {% endfor %}</ul>
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% pages teachings.md %}
+    {% include teachings.md %}
   {% endfor %}</ul>
