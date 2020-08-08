@@ -104,7 +104,7 @@ Tooba, Naireen Zaheer, Namra Rauf
 <img align="right" src="/images/mammograms.png" width="20%">
 
 - F. Zahra et al., Automated Segmentation and Classification of Lesion on Breast Ultrasound, Internal Technical Report, 2014
--
+<br/><br/>
 
 
 ### Analysis of Electrocardiography (ECG)
