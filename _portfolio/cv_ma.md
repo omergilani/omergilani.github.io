@@ -91,9 +91,7 @@ Tahseen Akhtar
 
 - M. Sami et al., Text detection and recognition for semantic mapping in indoor navigation, in IEEE ICITCS (Malaysia), 2015
 - S. Z. Zhou et al., Open source OCR framework using mobile devices, in SPIE-EI (USA), 2008
--
--
--
+
 
 ### Augmented/Virtual Reality
 <img align="left" src="/images/ar.png" width="30%">
@@ -102,7 +100,7 @@ Tahseen Akhtar
 - Z. Zhou et al., Wizqubes - a novel tangible interface for interactive storytelling in mixed reality, IJVR, vol. 7, no. (4), 9–15, 2008
 - P. Song et al., Vision–based projected tabletop interface for finger interac- tions,” in HCI, Springer, 2007
 - Z. Zhou et al, What you write is what you get: A novel mixed reality interface, in HCI (China), 2007
--
+
 
 ### Scene Understanding
 <img align="left" src="/images/su.png" width="30%">
