@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Computer Engineering, University of Engineering & Technology Taxila, 2003
+* M.Sc. Computer Engineering, Dalarna University, 2004
+* Ph.D. Electrical and Computer Engineering, National University of Singapore, 2013
+
+Professional Recognition
+======
+* Chartered Engineer (C.Eng.) U.K.
+* Member Institute of Engineering and Technology (MIET) U.K.
+* Member Institute of Mechanical Engineers (MIMechE) U.K.
+* Senior Member Institute of Electrical and Electronics Engineers (SMIEEE) U.S.A.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013 - ---- : **Assistant Professor**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
+* 2006 - 2008 : **Research Engineer**, Department of Electrical & Computer Engineering, NUS, Singapore
+* 2004 - 2006 : **Research Assistant**, Department of Computer Engineering - ITRG, Dalarana University, Sweden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019-2022 : Automatic and Adaptive Control system for Improved Myoelectric Control (6 MPKR)
+  * HEC-NRPU 2017, Approval 13-Feb-2019
+* 2017-2018 : Target Discrimination in Electro Optical Tracking System (0.2 MPKR)
+  * RAC-III 2016-17, Approval 13-Feb-2017
+* 2017-2018 : Implementation of Image Deconvolution on Embedded System (0.25 MPKR)
+  * RAC-III 2016-17, Approval 13-Feb-2017  
+* 2016-2018 : Micro Scanning Stage Design (0.3 MPK)
+  * RAC-II 2015-16, Approval 7-Apr-2016
+* 2016-2017 : Implementation of Human Detection in Cluttered Scene in Embedded System (0.2 MPKR)  
+  * RAC-II 2015-16, Approval 7-Apr-2016
+* 2016-2017 : Implementation of Torso Identification / Detection in Cluttered Scene in Embedded System (0.2 MPKR)
+  * RAC-II 2015-16, Approval 7-Apr-2016  
+* 2015-2016 : Development of Saliency Model for Dynamic Scenes (0.27 MPKR)
+  * HEC-SRGP 2014, Approval 23-Jan-2015
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include publication.md %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include teachings.md %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
