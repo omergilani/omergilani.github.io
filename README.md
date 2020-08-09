@@ -2,14 +2,14 @@
 Changes made in this repo. All changes are done using markdown
 1. Created new style publications page.
   1. new code to convert bib to md.
-  2. shows yearly and total count by publication type
+  2. shows year-wise and total count by publication type
   3. shows properly formatted doi and url
   4. shows properly formatted names
 2. Updated portfolio page with projects
 3. Updated CV page
 4. Updated teaching page to new style
 5. Updated left nav bar to include more links to external sources
-6. removed blogs and talks from top nav bar
+6. Removed blogs and talks from top nav bar
 
 **changes yet to implement...**
 1. revise text of main page (its outdated)
