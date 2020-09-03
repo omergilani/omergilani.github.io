@@ -6,11 +6,11 @@ collection: portfolio
 
 ## Visual Attention Models of Dynamic Scenes
 <img align="right" src="/images/visual_Attention.png" width="40%">
-Human visual system can quickly, effortlessly, and efficiently process visual information from their surroundings. As a result, modern computer vision has been heavily influenced by how biological visual systems encode properties of the natural environment Human subjects can perform several complex tasks such as object localization, identification, and recognition in scenes, owing to their ability to “attend” to selected portions of their visual fields while ignoring other information. Although visual attention can either be driven by bottom-up / exogenous-control or top-down / endogenous-control mechanisms, research studies have found that bottom-up influences act more rapidly than top-down processes. Our work here focuses on
+The human visual system can quickly, effortlessly, and efficiently process visual information from their surroundings. As a result, modern computer vision is heavily influenced by how biological visual systems encode properties of the natural environment. Humans can perform several complex tasks such as object localization, identification, and recognition in scenes, owing to their ability to “attend” to selected portions of their visual fields while ignoring other information. Although visual attention can either be driven by bottom-up / exogenous-control or top-down / endogenous-control mechanisms, research studies have found that bottom-up influences act more rapidly than top-down processes. Our work here focuses on
 
-Running psychophysical experiments to understand governing mechanisms of attention
-Proposing computational models for these mechanisms
-Applying these models in real-world scenarios
+- running psychophysical experiments to understand governing mechanisms of attention
+- proposing computational models for these mechanisms
+- applying these models in real-world scenarios.
 
 ### Publications
 - M. Wahid et. al., The effect of eye movements in response to different types of scenes using a graph-based visual saliency algorithm, Applied Sciences, vol. 9, no. (24), 2019
@@ -31,7 +31,7 @@ Student Symposium, National University of Singapore, (Singapore), 2011
 
 ## Person Detection in Unconstrained Environment
 <img align="right" src="/images/human_detection.png" width="40%">
-Person detection has been an active area of research due to its wide range of potential applications in pedestrian detection, in-store video analytics, crowd management, and video surveillance. Among a few challenges faced are varying viewpoints, illumination, postures, and sensing modalities. However, strong priors exist for an efficient and practical solution; e.g., movement characteristic, scene properties, postural connectivity etc., Our research aims to develop an efficient model of person detection for variety of challenges in real-world applications
+Person detection has been an active area of research due to its wide range of potential applications in pedestrian detection, in-store video analytics, crowd management, and video surveillance. Among a few challenges faced are varying viewpoints, illumination, postures, and sensing modalities. However, strong priors exist for an efficient and practical solution; e.g., movement characteristic, scene properties, postural connectivity etc., Our research aims to develop an efficient model of person detection for a variety of challenges in real-world applications
 
 ### Publications
 - M. N. Khan et. al., Photo detector-based indoor positioning systems variants: A new look, Computers & Electrical Engineering, vol. 83, 106607, 2020
@@ -50,7 +50,8 @@ Munir Sultan, Muhammad Ammar
 
 ## Multimedia Analytics
 <img align="right" src="/images/media_analytics.png" width="40%">
-Multimedia analytics is a vast and multidisciplinary field. With recent technological innovations, we have proliferation of multimedia usage in our daily life. The data embeds several modalities e.g., audio, visual, textual information. This calls for novel algorithms and technologies (drawing on multiple disciplines) for multimedia retrieval, access, exploration, understanding, abstraction, and interaction. Currently we are focusing on multimedia abstraction and interactions by analysing
+Multimedia analytics is a vast and multidisciplinary field. With recent technological innovations, we have a proliferation of multimedia usage in our daily life. The data embeds several modalities, e.g., audio, visual, textual information. This calls for novel algorithms and technologies (drawing on multiple disciplines) for multimedia retrieval, access, exploration, understanding, abstraction, and interaction. Currently, we are focusing on multimedia abstraction and interactions by analysing
+
 - User behaviour
 - Memorability
 - Emotions
@@ -66,20 +67,21 @@ Hasnain Ali
 
 ## Autonomous Vehicle Navigation
 <img align="right" src="/images/auto_drive.png" width="40%">
-Autonomous Vehicle research has recently entered into mainstream application (e.g., Google, Uber). The enabling technology relies on ability of vehicle to sense its environment, interpret multi-sensor (vision, radar, GPS, lidar, odometer etc., ) information and take appropriate decisions (path planning) and actions (control system). Currently, we are focusing on
+Autonomous Vehicle research has recently entered into the mainstream application (e.g., Google, Uber). The enabling technology relies on the ability of a vehicle to sense its environment, interpret multi-sensor (vision, radar, GPS, lidar, odometer etc., ) information and take appropriate decisions (path planning) and actions (control system). Currently, we are focusing on
+
 - video and scene analysis
 - real-time control
 
 ### Publications
 - Arqab et al., Autonomous Vehicle Control, Internal Technical Report, 2018
-H. Fleyeh et al., Road sign detection and recognition using fuzzy artmap: A case study swedish speed-limit signs, in Artificial Intelligence and Soft computing, (Spain), 2006
+- H. Fleyeh et al., Road sign detection and recognition using fuzzy artmap: A case study swedish speed-limit signs, in Artificial Intelligence and Soft computing, (Spain), 2006
 
 ### Members:
 Arqab, Aibak
 
 
 ## Crowd Modelling and Analytics
-Crowd modelling and analytics research offers key benefits in crowd management and security. Currently we are focusing on computing two factors; crowd density and crowd flow. Our approach is based on micro and macro level analysis of the crowd image in estimating these factors.
+Crowd modelling and analytics research offers vital benefits in crowd management and security. Currently, we are focusing on computing two factors; crowd density and crowd flow. Our approach is based on micro and macro-level analysis of the crowd image in estimating these factors.
 
 ### Members:
 Tahseen Akhtar

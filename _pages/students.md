@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-I am always looking for good students to join my research group and work on interesting and current research problems. If you are interested to join my team, please feel free to get in touch with me. You are also encouraged to contact my research students to find more about my research group. Below, you'll find list of active students and alumni of the group.
+I am always looking for good students to join my research group and work on exciting and current research problems. If you are interested in joining my team, please feel free to get in touch with me. You are also encouraged to contact my research students to find more about my research group. Below, you’ll find a list of active students and alumni of the group.
 
 ### Current Students:
 1. Tahseen Akhtar (PhD scholar R&AI) *Co-supervisor*
@@ -18,17 +18,15 @@ I am always looking for good students to join my research group and work on inte
 4. Namra Afzal (PhD scholar BMES)
 5. Faisal Amin (PhD scholar BMES)  *Co-supervisor*
 6. Sultan Fateh Ali Khan (MS BMES17)
-7. Mahnoor Ali (MS BMES17)
-8. Anum Hamid (MS BMES17)
-9. Fatima tuz Zahra (MS BMES17)
-10. Amna Ashiq (MS R&AI)
-11. Afaq Ahmad (MS R&AI)
-12. Farooq Saeed (MS BMES)
-13. Moiz Ashfaque (MS RIME18)
-14. Hajira Arif (MS BMES18)
-15. Zainab Riaz (MS BMES18)
-16. Syeda Ghina (MS BMES18)
-17. Fatima Amin (MS BMES18)
+7. Fatima tuz Zahra (MS BMES17)
+8. Amna Ashiq (MS R&AI)
+9. Afaq Ahmad (MS R&AI)
+10. Farooq Saeed (MS BMES)
+11. Moiz Ashfaque (MS RIME18)
+12. Hajira Arif (MS BMES18)
+13. Zainab Riaz (MS BMES18)
+14. Syeda Ghina (MS BMES18)
+15. Fatima Amin (MS BMES18)
 
 ### Alumni:
 1. Zia ur Rehman (HEC funded PhD scholar R&AI) - *Currently lecturer at RIPHA University*
@@ -66,3 +64,8 @@ I am always looking for good students to join my research group and work on inte
 33. Nayab Azam (MS BMES)
 34. Kashan Zafar (MS BMES17)
 35. Fajir Javed (MS BMES18)
+36. Mahnoor Ali (MS BMES17)
+37. Anum Hamid (MS BMES17)
+38. Fahad Mehmood (MS RIME2016)
+39. Muhammad Abdullah Tahir (MS RIME2016)
+40. Muhammad Shoaib (MS BMES2016)

@@ -4,16 +4,16 @@ excerpt: "Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS
 collection: portfolio
 ---
 
-## Brain Tumor Segmentation
+## Brain Tumour Segmentation
 <img align="right" src="/images/bts.png" width="40%">
-Brain Tumor Segmentation (BraTS) utilizes multi-institutional pre-operative MRI scans and focuses on the segmentation of intrinsically heterogeneous (in appearance, shape, and histology) brain tumors, namely gliomas. The segmentation task is subdivided into
+Brain Tumour Segmentation (BraTS) utilizes multi-institutional pre-operative MRI scans and focuses on the segmentation of intrinsically heterogeneous (in appearance, shape, and histology) brain tumours, namely gliomas. Our focus in the segmentation task is on
+
 - segmentation of enhancing tumor (ET)
 - segmentation of tumor core (TC)
 - segmentation of whole tumor (WT)
 
 ### Publications
-- Fatima Ehsan et, al., Brain Tumor Segmentation from Multimodal MRI scans using KNN as a classifier, under review
-- Mahnoor Ali et, al.., Brain Tumor Image Segmentation Using Deep Networks, under review
+- Mahnoor Ali et, al.., Brain Tumour Image Segmentation Using Deep Networks, IEEE Access, vol 8, pp 153589-153598, 2020
 
 ### Members:  
 Fatima Ehsan, Mahnoor Ali
@@ -22,9 +22,10 @@ Fatima Ehsan, Mahnoor Ali
 ## Melanoma Detection
 <img align="right" src="/images/md.png" width="40%">
 Melanoma is the deadliest form of skin cancer. Although the mortality is significant, when detected early, melanoma survival exceeds 95%. The detection task is subdivided into
-Automated predictions of lesion segmentation boundaries within dermoscopic images
-Classify and localize clinical dermoscopic attribute patterns as binary masks
-Classify disease categories for dermoscopic images
+
+- automated predictions of lesion segmentation boundaries within dermoscopic images
+- classify and localize clinical dermoscopic attribute patterns as binary masks
+- classify disease categories for dermoscopic images
 
 ### Publications
 - K. Zafar et al., Skin lesion segmentation from dermoscopic images using convolutional neural network, Sensors, vol. 20, no. (6), 2020
@@ -35,7 +36,7 @@ Kashan Zafar
 
 ## Pattern Recognition based Mayo-electric Control
 <img align="right" src="/images/premg.png" width="40%">
-Advances in mayo-electric interfaces have increased the use of wearable prosthetics including robotic arms. Although promising results have been achieved with pattern recognition-based control schemes, control robustness requires improvement to increase user acceptance of prosthetic hands. The aim of this work is to quantify the performance of various pattern recognition based techniques (LDA, SVM, NN, DL) on efficacy of long-term robust prosthetic control.
+Advances in mayo-electric interfaces have increased the use of wearable prosthetics, including robotic arms. Although promising results have been achieved with pattern recognition-based control schemes, control robustness requires improvement to increase user acceptance of prosthetic hands. Our research focus aims to quantify the performance of various pattern recognition based techniques (LDA, SVM, NN, DL) on the efficacy of long-term robust prosthetic control.
 
 ### Publications
 - M. Zia et. al., Stacked sparse autoencoders for EMG-based classification of hand motions: A comparative multi day analyses between surface and intramuscular EMG, Applied Sciences, vol. 8, no. (7), 2018
@@ -52,7 +53,7 @@ Zia ur rehman, Asim Waris, Bushra Saeed
 
 ## Brain Computer Interface based on Near-Infrared Spectroscopy (NIRS)
 <img align="right" src="/images/nirs.png" width="40%">
-People suffering from neuromuscular disorders such as locked-in syndrome (LIS) are left in a paralyzed state with preserved awareness and cognition. In this study, it was hypothesized that changes in local hemodynamic activity, due to the activation of Broca’s area during overt/covert speech, can be harnessed to create an intuitive Brain Computer Interface based on Near-Infrared Spectroscopy (NIRS). Our analysis based on 6 overtly and covertly spoken words, using optimized support vector machine classifiers, indicates NIRS as a viable solution for future BCI applications
+People suffering from neuromuscular disorders such as locked-in syndrome (LIS) are left in a paralyzed state with preserved awareness and cognition. In this study, it was hypothesized that changes in local hemodynamic activity, due to the activation of Broca’s area during overt/covert speech, can be harnessed to create an intuitive Brain-Computer Interface based on Near-Infrared Spectroscopy (NIRS). Our analysis based on six overtly and covertly spoken words, using optimized support vector machine classifiers, indicates NIRS as a viable solution for future BCI applications
 
 ### Publications
 - U. A. Sheikh et al., Classification of overt and covert speech for near-infrared spectroscopy-based brain computer interface, Sensors, vol. 18, no. (9), 2018
@@ -63,7 +64,7 @@ Usman Ayub Shiekh, Namra Afzal
 
 ## Juxtapleural Pulmonary Nodule Detection and Segmentation in Lung Cancer CT Images
 <img align="right" src="/images/lung_ct.png" width="40%">
-Early diagnosis of lung cancer plays crucial role in the improvement of patients' chances of survival. Computer aided detection (CAD) system has been a groundbreaking step in the timely diagnosis and identification of potential nodules (lesions). CAD system starts detection process by extracting lung regions from CT scan images. This step narrows down the region for detection, thus saving time and reducing false positives outside the lung regions, resulting in the improvement of specificity of CAD systems.
+Early diagnosis of lung cancer plays a crucial role in the improvement of patients’ chances of survival. Computer-aided detection (CAD) system has been a groundbreaking step in the timely diagnosis and identification of potential nodules (lesions). CAD system starts the detection process by extracting lung regions from CT scan images. This step narrows down the region for detection, thus saving time and reducing false positives outside the lung regions, resulting in the improvement of specificity of CAD systems.
 
 ### Publications
 - M. Z. ur Rehman et al., An appraisal of nodules detection techniques for lung cancer in CT images, Biomedical Signal Processing and Control, vol. 41, 140–151, 2018
@@ -75,7 +76,7 @@ Zia ur rehman
 
 ## Bone Fracture Detection in X-Ray Images
 <img align="right" src="/images/boneXray.png" width="40%">
-Bone is tough, locomotive tissue of the body which is often subjected to fractures and degenerative disorders. For diagnostic purposes, clinician readily use X-Ray imaging. This provides researcher with ample opportunity to utilize image processing and analysis techniques for automated detections. Our work has focused on detecting these bone fractures and different types arthritis; Osteoarthritis Arthritis (OA) and rheumatoid Arthritis (RA).
+Bone is hard locomotive tissue of the body that is often subjected to fractures and degenerative disorders. For diagnostic purposes, clinician readily uses X-Ray imaging, which provides the researcher with ample opportunity to utilize image processing and analysis techniques for automated detections of fractures. Our work is focused on detecting bone fractures and different types of arthritis; osteoarthritis arthritis (OA) and rheumatoid arthritis (RA).
 
 ### Publications
 - Najwa et al., Ground Truth Annotation, Analysis and Release of Data set of Radiographic Images of Bone Fractures, under review
@@ -87,7 +88,7 @@ Hunza Hayat, Najwa Farooq
 
 ## Analysis of Retinal Images
 <img align="right" src="/images/retinaAna.png" width="40%">
-Eye disorders (age-related macular degeneration, diabetic retinopathy, and glaucoma) can manifest themselves in retinal images. A good computer aided diagnostic system can alert the onset of disease resulting in timely treatment and/or preventive measures. Our work has primarily focused on diabetic retinopathy and glaucoma detection
+Eye disorders (age-related macular degeneration, diabetic retinopathy, and glaucoma) can manifest themselves in retinal images. A good computer-aided diagnostic system can alert the onset of disease, resulting in timely treatment and preventive measures. Our work has primarily focused on diabetic retinopathy and glaucoma detection
 
 ### Publications
 - T. Shafa et al., Automated Classification of Retinal Diseases in STARE Database, in 4th International Conference on Recent Trends in Computer Science and Electronics (2019 RTCSE), (Hawaii, U.S.A), 2019

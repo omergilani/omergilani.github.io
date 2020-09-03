@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-I regularly offer courses at undergraduate and postgraduate levels
+I regularly offer courses at undergraduate and postgraduate levels.
 
 ## Graduate Courses
 

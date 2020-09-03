@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Computer Engineering, University of Engineering & Technology Taxila, 2003
-* M.Sc. Computer Engineering, Dalarna University, 2004
 * Ph.D. Electrical and Computer Engineering, National University of Singapore, 2013
+* M.Sc. Computer Engineering, Dalarna University, 2004
+* B.Sc. Computer Engineering, University of Engineering & Technology Taxila, 2003
 
 Professional Recognition
 ======
@@ -24,7 +24,8 @@ Professional Recognition
 
 Work Experience
 ======
-* 2013 - ---- : **Assistant Professor**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
+* 2019 - _present_ : **Associate Professor (_Tenured_)**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
+* 2013 - 2019 : **Assistant Professor**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
 * 2006 - 2008 : **Research Engineer**, Department of Electrical & Computer Engineering, NUS, Singapore
 * 2004 - 2006 : **Research Assistant**, Department of Computer Engineering - ITRG, Dalarana University, Sweden
 
