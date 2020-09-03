@@ -9,13 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(67)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(68)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2020  
-<sub> (7)Journal</sub>  
+<sub> (8)Journal</sub>  
+  
+Brain Tumour Image Segmentation Using Deep Networks  
+M.{Ali}, S.O.{Gilani}, A.{Waris}, K.{Zafar}, M.{Jamil}  
+IEEE Access, vol 8, pp 153589-153598, 2020, IF 3.79  
+**DOI:** [10.1109/ACCESS.2020.3018160](https://dx.doi.org/10.1109/ACCESS.2020.3018160){:target="_blank"}  
   
 Improving fuel cell performance via optimal parameters identification through fuzzy logic based-modeling and optimization  
 W.H.Tanveer, H.Rezk, A.Nassef, M.A.Abdelkareem, B.Kolosz, K.Karuppasamy, J.Aslam, S.O.Gilani  
