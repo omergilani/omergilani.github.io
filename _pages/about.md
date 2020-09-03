@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {: style="text-align: justify" }
-Welcome to my Research and Teaching website. I am currently working as an Associate Professor in School of Mechanical and Manufacturing Engineering [(SMME)](http://nust.edu.pk/INSTITUTIONS/Schools/SMME/Pages/default.aspx) at the National University of Sciences and Technology [(NUST)](http://nust.edu.pk), Islamabad, Pakistan. I also have an appointment as the head of the IT department at SMME. I completed my PhD in Electrical and Computer Engineering from the National University of Singapore in 2013. Before this, I worked as a Research Engineer at Interactive Multimedia Lab, Singapore (2006-2008) and Intelligent Transportation Research Group Sweden (2004-2006).
+Welcome to my Research and Teaching website. I am currently working as an Associate Professor in the Department of Biomedical Engineering and Sciences [(BMES-SMME)](http://www.nust.edu.pk/INSTITUTIONS/Schools/SMME/Departments/DBE/Faculty/Pages/Dr-Syed-Omer-Gilani.aspx) at the National University of Sciences and Technology [(NUST)](http://nust.edu.pk), Islamabad, Pakistan. I also have an appointment as the head of the IT department at SMME. I completed my PhD in Electrical and Computer Engineering from the National University of Singapore in 2013. Before this, I worked as a Research Engineer at Interactive Multimedia Lab, Singapore (2006-2008) and Intelligent Transportation Research Group Sweden (2004-2006).
 
 I have been active in academic research since 2004. My research interests include computer vision, medical signal and image analysis, machine learning, computer graphics, control systems, and power electronics.
 
