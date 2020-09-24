@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr Syed Omer Gilani"
   avatar           : "Pic_thumbnail.png"
-  bio              : "computer vision and machine learning enthusiast"
-  location         : "Islamabad, PK"
-  employer         :
-  pubmed           : 
+  bio              : "Associate Professor"
+  location         : "Department of Biomedical Engineering"
+  employer         : "National University of Sciences and Technology"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=u5kydhAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         : "www.linkedin.com/in/syed-omer-gilani-22b6a22b"
   orcid            : "http://orcid.org/0000-0001-5654-7863"
