@@ -17,21 +17,20 @@ I am always looking for good students to join my research group and work on exci
 3. Hasnain Ali (PhD scholar R&AI)
 4. Namra Afzal (PhD scholar BMES)
 5. Faisal Amin (PhD scholar BMES)  *Co-supervisor*
-6. Sultan Fateh Ali Khan (MS BMES17)
-7. Fatima tuz Zahra (MS BMES17)
-8. Amna Ashiq (MS R&AI18)
-9. Afaq Ahmad (MS R&AI18)
-10. Farooq Saeed (MS BMES18)
-11. Iqra Saeed (MS BMES18)
-12. Moiz Ashfaque (MS RIME18)
-13. Hajira Arif (MS BMES18)
-14. Zainab Riaz (MS BMES18)
-15. Syeda Ghina (MS BMES18)
-16. Fatima Amin (MS BMES18)
-17. Ramsha Abbasi (MS BMES19)
-18. Kamran Faisal (MS RIME19)
-19. kamran Ali (MS IGIS)  *Co-supervisor*
-20. Feriha Khaliq (MS BMES19)
+6. Fatima tuz Zahra (MS BMES17)
+7. Amna Ashiq (MS R&AI18)
+8. Afaq Ahmad (MS R&AI18)
+9. Farooq Saeed (MS BMES18)
+10. Iqra Saeed (MS BMES18)
+11. Moiz Ashfaque (MS RIME18)
+12. Hajira Arif (MS BMES18)
+13. Zainab Riaz (MS BMES18)
+14. Syeda Ghina (MS BMES18)
+15. Fatima Amin (MS BMES18)
+16. Ramsha Abbasi (MS BMES19)
+17. Kamran Faisal (MS RIME19)
+18. kamran Ali (MS IGIS)  *Co-supervisor*
+19. Feriha Khaliq (MS BMES19)
 
 ### Alumni:
 1. Zia ur Rehman (HEC funded PhD scholar R&AI) - *Currently lecturer at RIPHA University*
