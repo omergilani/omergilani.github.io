@@ -31,7 +31,7 @@ I am always looking for good students to join my research group and work on exci
 17. Ramsha Abbasi (MS BMES19)
 18. Kamran Faisal (MS RIME19)
 19. kamran Ali (MS IGIS)  *Co-supervisor*
-% 20. Feriha Khaliq (MS BMES19) %
+20. Feriha Khaliq (MS BMES19)
 
 ### Alumni:
 1. Zia ur Rehman (HEC funded PhD scholar R&AI) - *Currently lecturer at RIPHA University*
