@@ -9,18 +9,33 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(69)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(72)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2020  
-<sub> (9)Journal</sub>  
+<sub> (12)Journal</sub>  
+  
+Probability of Diabetes mellitus and Cardiometabolic Syndrome based on Facial Types  
+M.Jamil, A.H.Taqi, S.O.Gilani  
+Pakistan Journal of Engineering and Technology, vol 3(1), pp 12--17, 2020  
+**URL:** [hpej.net](https://www.hpej.net/journals/index.php/pakjet/article/view/191){:target="_blank"}  
+  
+Ground Truth Annotation, Analysis and Release of Data set of Radiographic Images of Bone Fractures  
+M.Jamil, N.Farooq, S.O.Gilani  
+Pakistan Journal of Engineering and Technology, vol 3(1), pp 6--11, 2020  
+**URL:** [hpej.net](https://www.hpej.net/journals/index.php/pakjet/article/view/192){:target="_blank"}  
   
 Leveraging ANN and LDA Classifiers for Characterizing Different Hand Movements Using EMG Signals  
 B.Saeed, M.Zia-ur-Rehman, S.O.Gilani, F.Amin, A.Waris, M.Jamil, M.Shafique  
 Arabian Journal for Science and Engineering, pp 1--9, 2020, IF 1.711  
 **DOI:** [10.1007/s13369-020-05044-x](https://dx.doi.org/10.1007/s13369-020-05044-x){:target="_blank"}  
+  
+A Novel 2-D Current Signal-Based Residual Learning With Optimized Softmax to Identify Faults in Ball Screw Actuators  
+N.Riaz, S.I.Shah, F.Rehman, S.O.Gilani, E.Udin  
+IEEE Access, vol 8, pp 115299--115313, 2020, IF 3.79  
+**DOI:** [10.1109/ACCESS.2020.3004489](https://dx.doi.org/10.1109/ACCESS.2020.3004489){:target="_blank"}  
   
 Brain Tumour Image Segmentation Using Deep Networks  
 M.Ali, S.O.Gilani, A.Waris, K.Zafar, M.Jamil  
