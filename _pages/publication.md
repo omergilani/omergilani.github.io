@@ -19,7 +19,8 @@ redirect_from:
   
 Leveraging ANN and LDA Classifiers for Characterizing Different Hand Movements Using EMG Signals  
 B.Saeed, M.Zia-ur-Rehman, S.O.Gilani, F.Amin, A.Waris, M.Jamil, M.Shafique  
-Arabian Journal for Science and Engineering, pp 1--9, 2020  
+Arabian Journal for Science and Engineering, pp 1--9, 2020, IF 1.711  
+**DOI:** [10.1007/s13369-020-05044-x](https://dx.doi.org/10.1007/s13369-020-05044-x){:target="_blank"}  
   
 Brain Tumour Image Segmentation Using Deep Networks  
 M.Ali, S.O.Gilani, A.Waris, K.Zafar, M.Jamil  
