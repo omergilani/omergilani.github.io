@@ -9,13 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(72)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(73)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2020  
-<sub> (12)Journal</sub>  
+<sub> (13)Journal</sub>  
+  
+Evaluation of windowing techniques for intramuscular EMG-based diagnostic, rehabilitative and assistive devices  
+H.Ashraf, A.Waris, S.O.Gilani, A.S.Kashif, M.Jamil, M.Jochumsen, I.K.Niazi  
+Journal of Neural Engineering, 2020, IF 4.14  
+**DOI:** [10.1088/1741-2552/abcc7f](https://dx.doi.org/10.1088/1741-2552/abcc7f){:target="_blank"}  
   
 Probability of Diabetes mellitus and Cardiometabolic Syndrome based on Facial Types  
 M.Jamil, A.H.Taqi, S.O.Gilani  
