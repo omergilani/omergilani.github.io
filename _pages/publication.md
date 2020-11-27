@@ -9,13 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(73)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(74)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2020  
-<sub> (13)Journal</sub>  
+<sub> (14)Journal</sub>  
+  
+Decoding Attempted Hand Movements in Stroke Patients Using Surface Electromyography  
+M.Jochumsen, I.K.Niazi, M.Rehman, I.Amjad, M.Shafique, S.O.Gilani, A.Waris  
+Sensors, vol 20(23), 2020, IF 3.03  
+**DOI:** [10.3390/s20236763](https://dx.doi.org/10.3390/s20236763){:target="_blank"}  
   
 Evaluation of windowing techniques for intramuscular EMG-based diagnostic, rehabilitative and assistive devices  
 H.Ashraf, A.Waris, S.O.Gilani, A.S.Kashif, M.Jamil, M.Jochumsen, I.K.Niazi  
