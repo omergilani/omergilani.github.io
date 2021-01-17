@@ -9,9 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(74)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(75)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
+  
+  
+# 2021  
+<sub> (1)Journal</sub>  
+  
+Threshold parameters selection for empirical mode decomposition-based EMG signal denoising  
+H.Ashraf, A.Waris, S.O.Gilani, M.U.Tariq, H.Alquhayz  
+Intelligent Automation & Soft Computing, 2021, IF 1.27  
+**DOI:** [10.3390/s20236763](https://dx.doi.org/10.3390/s20236763){:target="_blank"}  
   
   
 # 2020  
