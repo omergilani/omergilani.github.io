@@ -15,7 +15,7 @@ redirect_from:
   
   
 # 2020  
-<sub> (14)Journal</sub>  
+<sub> (15)Journal</sub>  
   
 Decoding Attempted Hand Movements in Stroke Patients Using Surface Electromyography  
 M.Jochumsen, I.K.Niazi, M.Rehman, I.Amjad, M.Shafique, S.O.Gilani, A.Waris  
@@ -87,9 +87,14 @@ M.Jamil, A.Waris, S.O.Gilani, B.A.Khawaja, M.N.Khan, A.Raza
 IEEE Access, vol 8, pp 30603-30614, , 2020, IF 4.1  
 **DOI:** [10.1109/ACCESS.2020.2973168](https://dx.doi.org/10.1109/ACCESS.2020.2973168){:target="_blank"}  
   
+A Region-Based Deep Level Set Formulation for Vertebral Bone Segmentation of Osteoporotic Fractures  
+F.Rehman, S.I.Shah, M.N.Riaz, S.O.Gilani, R.Faiza  
+Journal of digital imaging, pp 1--13, 2020, IF 2.57  
+**DOI:** [10.1007/s10278-019-00216-0](https://dx.doi.org/10.1007/s10278-019-00216-0){:target="_blank"}  
+  
   
 # 2019  
-<sub> (7)Journal</sub>, <sub> (8)Conference</sub>  
+<sub> (6)Journal</sub>, <sub> (8)Conference</sub>  
   
 Numerical Simulation of Inline Arrangement of Spheroid Particles in Different Orientations  
 A.Jamil, E.Uddin, A.A.Zaidi, Z.Ali, J.Aslam, S.O.Gilani, vol Volume 2: Computational Fluid Dynamics  
@@ -135,11 +140,6 @@ Detection and tracking of bubbles in two phase air water flow for non convergent
 M.Sajid, A.Rahman, S.O.Gilani, E.Uddin, I.Hassan  
 IET Image Processing, January, 2019, IF 1.40  
 **DOI:** [10.1049/iet-ipr.2018.5684](https://dx.doi.org/10.1049/iet-ipr.2018.5684){:target="_blank"}  
-  
-A Region-Based Deep Level Set Formulation for Vertebral Bone Segmentation of Osteoporotic Fractures  
-F.Rehman, S.I.Shah, M.N.Riaz, S.O.Gilani, R.Faiza  
-Journal of digital imaging, pp 1--13, 2019, IF 2.57  
-**DOI:** [10.1007/s10278-019-00216-0](https://dx.doi.org/10.1007/s10278-019-00216-0){:target="_blank"}  
   
 Automated Classification of Retinal Diseases in STARE Database  
 T.Shafa, S.O.Gilani, A.Shehzad, M.Jamil, S.Mushtaq, S.Mushtaq, A.Waris  
