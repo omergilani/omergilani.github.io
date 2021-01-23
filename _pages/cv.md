@@ -17,8 +17,8 @@ Education
 
 Professional Recognition
 ======
-* Professional Engineer (P.E) Pakistan
-* Chartered Engineer (C.Eng.) U.K.
+* Professional Engineer (PE) Pakistan
+* Chartered Engineer (CEng) U.K.
 * Member Institute of Engineering and Technology (MIET) U.K.
 * Member Institute of Mechanical Engineers (MIMechE) U.K.
 * Senior Member Institute of Electrical and Electronics Engineers (SMIEEE) U.S.A.
