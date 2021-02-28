@@ -9,18 +9,23 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(75)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(76)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2021  
-<sub> (1)Journal</sub>  
+<sub> (2)Journal</sub>  
+  
+Decoding of Ankle Joint Movements in Stroke Patients Using Surface Electromyography  
+A.Noor, A.Waris, S.O.Gilani, A.S.Kashif, M.Jochumsen, J.Iqbal, I.K.Niazi  
+Sensors, vol 21(5), 2021, IF 3.03  
+**DOI:** [10.3390/s21051575](https://dx.doi.org/10.3390/s21051575){:target="_blank"}  
   
 Threshold parameters selection for empirical mode decomposition-based EMG signal denoising  
 H.Ashraf, A.Waris, S.O.Gilani, M.U.Tariq, H.Alquhayz  
 Intelligent Automation & Soft Computing, 2021, IF 1.27  
-**DOI:** [10.3390/s20236763](https://dx.doi.org/10.3390/s20236763){:target="_blank"}  
+**DOI:** [10.32604/iasc.2021.000000](https://dx.doi.org/10.32604/iasc.2021.000000){:target="_blank"}  
   
   
 # 2020  
