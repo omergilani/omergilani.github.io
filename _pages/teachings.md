@@ -16,7 +16,7 @@ I regularly offer courses at undergraduate and postgraduate levels.
 | Courses       | Term          |
 | ---           | --:           |
 | BMES813: Biomedical Instrumentation  (3-0)                    | Spring, 13  |
-| BMES811: Signal & Imaging in Medicine  (3-0)                  | Spring, 13-14-16-17-18-19-20|
+| BMES811: Signal & Imaging in Medicine  (3-0)                  | Spring, 13-14-16-17-18-19-20-21|
 | BMES 814: Neural Engineering  (3-0)                           | Summer, 13 |
 | BMES822: Selected Topics in Biomedical Engineering (3-0)      | Spring, 14 |
 | BMES815: Bio sensors and instrumentation (3-0)                | Spring, 14 |
