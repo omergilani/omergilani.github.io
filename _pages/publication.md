@@ -22,10 +22,10 @@ A.Noor, A.Waris, S.O.Gilani, A.S.Kashif, M.Jochumsen, J.Iqbal, I.K.Niazi
 Sensors, vol 21(5), 2021, IF 3.03  
 **DOI:** [10.3390/s21051575](https://dx.doi.org/10.3390/s21051575){:target="_blank"}  
   
-Threshold parameters selection for empirical mode decomposition-based EMG signal denoising  
+Threshold Parameters Selection for Empirical Mode Decomposition-Based EMG Signal Denoising  
 H.Ashraf, A.Waris, S.O.Gilani, M.U.Tariq, H.Alquhayz  
-Intelligent Automation & Soft Computing, 2021, IF 1.27  
-**DOI:** [10.32604/iasc.2021.000000](https://dx.doi.org/10.32604/iasc.2021.000000){:target="_blank"}  
+Intelligent Automation \& Soft Computing, vol 27(3), pp 799--815, 2021, IF 1.27  
+**DOI:** [doi:10.32604/iasc.2021.014765](https://dx.doi.org/doi:10.32604/iasc.2021.014765){:target="_blank"}  
   
   
 # 2020  
