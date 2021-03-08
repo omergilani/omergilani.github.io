@@ -24,7 +24,7 @@ Sensors, vol 21(5), 2021, IF 3.03
   
 Threshold Parameters Selection for Empirical Mode Decomposition-Based EMG Signal Denoising  
 H.Ashraf, A.Waris, S.O.Gilani, M.U.Tariq, H.Alquhayz  
-Intelligent Automation \& Soft Computing, vol 27(3), pp 799--815, 2021, IF 1.27  
+Intelligent Automation & Soft Computing, vol 27(3), pp 799--815, 2021, IF 1.27  
 **DOI:** [doi:10.32604/iasc.2021.014765](https://dx.doi.org/doi:10.32604/iasc.2021.014765){:target="_blank"}  
   
   
