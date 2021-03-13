@@ -9,13 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(76)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(77)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2021  
-<sub> (2)Journal</sub>  
+<sub> (3)Journal</sub>  
+  
+Predicting Risk of Antenatal Depression and Anxiety Using Multi-Layer Perceptrons and Support Vector Machines  
+F.Javed, S.O.Gilani, S.Latif, A.Waris, M.Jamil, A.Waqas  
+Journal of Personalized Medicine, vol 11(3), 2021, IF 4.43  
+**DOI:** [10.3390/jpm11030199](https://dx.doi.org/10.3390/jpm11030199){:target="_blank"}  
   
 Decoding of Ankle Joint Movements in Stroke Patients Using Surface Electromyography  
 A.Noor, A.Waris, S.O.Gilani, A.S.Kashif, M.Jochumsen, J.Iqbal, I.K.Niazi  
@@ -25,7 +30,7 @@ Sensors, vol 21(5), 2021, IF 3.03
 Threshold Parameters Selection for Empirical Mode Decomposition-Based EMG Signal Denoising  
 H.Ashraf, A.Waris, S.O.Gilani, M.U.Tariq, H.Alquhayz  
 Intelligent Automation & Soft Computing, vol 27(3), pp 799--815, 2021, IF 1.27  
-**DOI:** [doi:10.32604/iasc.2021.014765](https://dx.doi.org/doi:10.32604/iasc.2021.014765){:target="_blank"}  
+**DOI:** [10.32604/iasc.2021.014765](https://dx.doi.org/10.32604/iasc.2021.014765){:target="_blank"}  
   
   
 # 2020  
