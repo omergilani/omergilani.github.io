@@ -63,7 +63,7 @@ I am always looking for good students to join my research group and work on exci
 1. Azmat Ullah (MS BMES) - *Currently  with NCAI UET Pehsawar*
 1. Usman Khalid (MS RIME)
 1. Fatima Ehsan (MS BMES)
-1. Namra Rauf (MS BMES)
+1. Namra Rauf (MS BMES) - *Currently pursuing PhD in Germany*
 1. Aqsa Arshad (MS RIME)
 1. Ahmad Subhani (MS BMES)
 1. Nayab Azam (MS BMES)
@@ -76,4 +76,4 @@ I am always looking for good students to join my research group and work on exci
 1. Muhammad Shoaib (MS BMES2016)
 1. Arslan Shiekh (MS BMES2016) *in co-supervision with Dr. Zartasha*
 1. Samra Zahoor (MS BMES2016) *in co-supervision with Dr. Zartasha*
-1. Moiz Ashfaque (MS RIME18)
+1. Moiz Ashfaque (MS RIME18) - *Currently pursuing PhD in NewZealand*
