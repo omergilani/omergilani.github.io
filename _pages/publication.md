@@ -39,7 +39,7 @@ Journal of Neural Engineering, vol 18(1), 2021, IF 4.14
   
 Leveraging ANN and LDA Classifiers for Characterizing Different Hand Movements Using EMG Signals  
 B.Saeed, M.Zia-ur-Rehman, S.O.Gilani, F.Amin, A.Waris, M.Jamil, M.Shafique  
-Arabian Journal for Science and Engineering, pp 1761--1769, 2021, IF 1.711  
+Arabian Journal for Science and Engineering, vol 46(2), pp 1761--1769, 2021, IF 1.711  
 **DOI:** [10.1007/s13369-020-05044-x](https://dx.doi.org/10.1007/s13369-020-05044-x){:target="_blank"}  
   
   
