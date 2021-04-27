@@ -15,7 +15,7 @@ redirect_from:
   
   
 # 2021  
-<sub> (3)Journal</sub>  
+<sub> (5)Journal</sub>  
   
 Predicting Risk of Antenatal Depression and Anxiety Using Multi-Layer Perceptrons and Support Vector Machines  
 F.Javed, S.O.Gilani, S.Latif, A.Waris, M.Jamil, A.Waqas  
@@ -32,19 +32,24 @@ H.Ashraf, A.Waris, S.O.Gilani, M.U.Tariq, H.Alquhayz
 Intelligent Automation & Soft Computing, vol 27(3), pp 799--815, 2021, IF 1.27  
 **DOI:** [10.32604/iasc.2021.014765](https://dx.doi.org/10.32604/iasc.2021.014765){:target="_blank"}  
   
+Evaluation of windowing techniques for intramuscular EMG-based diagnostic, rehabilitative and assistive devices  
+H.Ashraf, A.Waris, S.O.Gilani, A.S.Kashif, M.Jamil, M.Jochumsen, I.K.Niazi  
+Journal of Neural Engineering, vol 18(1), 2021, IF 4.14  
+**DOI:** [10.1088/1741-2552/abcc7f](https://dx.doi.org/10.1088/1741-2552/abcc7f){:target="_blank"}  
+  
+Leveraging ANN and LDA Classifiers for Characterizing Different Hand Movements Using EMG Signals  
+B.Saeed, M.Zia-ur-Rehman, S.O.Gilani, F.Amin, A.Waris, M.Jamil, M.Shafique  
+Arabian Journal for Science and Engineering, pp 1761--1769, 2021, IF 1.711  
+**DOI:** [10.1007/s13369-020-05044-x](https://dx.doi.org/10.1007/s13369-020-05044-x){:target="_blank"}  
+  
   
 # 2020  
-<sub> (15)Journal</sub>  
+<sub> (13)Journal</sub>  
   
 Decoding Attempted Hand Movements in Stroke Patients Using Surface Electromyography  
 M.Jochumsen, I.K.Niazi, M.Rehman, I.Amjad, M.Shafique, S.O.Gilani, A.Waris  
 Sensors, vol 20(23), 2020, IF 3.03  
 **DOI:** [10.3390/s20236763](https://dx.doi.org/10.3390/s20236763){:target="_blank"}  
-  
-Evaluation of windowing techniques for intramuscular EMG-based diagnostic, rehabilitative and assistive devices  
-H.Ashraf, A.Waris, S.O.Gilani, A.S.Kashif, M.Jamil, M.Jochumsen, I.K.Niazi  
-Journal of Neural Engineering, 2020, IF 4.14  
-**DOI:** [10.1088/1741-2552/abcc7f](https://dx.doi.org/10.1088/1741-2552/abcc7f){:target="_blank"}  
   
 Probability of Diabetes mellitus and Cardiometabolic Syndrome based on Facial Types  
 M.Jamil, A.H.Taqi, S.O.Gilani  
@@ -55,11 +60,6 @@ Ground Truth Annotation, Analysis and Release of Data set of Radiographic Images
 M.Jamil, N.Farooq, S.O.Gilani  
 Pakistan Journal of Engineering and Technology, vol 3(1), pp 6--11, 2020  
 **URL:** [hpej.net](https://www.hpej.net/journals/index.php/pakjet/article/view/192){:target="_blank"}  
-  
-Leveraging ANN and LDA Classifiers for Characterizing Different Hand Movements Using EMG Signals  
-B.Saeed, M.Zia-ur-Rehman, S.O.Gilani, F.Amin, A.Waris, M.Jamil, M.Shafique  
-Arabian Journal for Science and Engineering, pp 1--9, 2020, IF 1.711  
-**DOI:** [10.1007/s13369-020-05044-x](https://dx.doi.org/10.1007/s13369-020-05044-x){:target="_blank"}  
   
 A Novel 2-D Current Signal-Based Residual Learning With Optimized Softmax to Identify Faults in Ball Screw Actuators  
 N.Riaz, S.I.Shah, F.Rehman, S.O.Gilani, E.Udin  
