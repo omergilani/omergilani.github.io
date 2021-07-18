@@ -12,21 +12,17 @@ redirect_from:
 I am always looking for good students to join my research group and work on exciting and current research problems. If you are interested in joining my team, please feel free to get in touch with me. You are also encouraged to contact my research students to find more about my research group. Below, you’ll find a list of active students and alumni of the group.
 
 ### Current Students:
-1. Tahseen Akhtar (PhD scholar R&AI) *Co-supervisor*
+1. Tahseen Akhtar (PhD scholar R&AI)
 1. Bushra Saeed (PhD scholar R&AI)
 1. Hasnain Ali (PhD scholar R&AI)
 1. Namra Afzal (PhD scholar BMES)
 1. Faisal Amin (PhD scholar BMES)  *Co-supervisor*
-1. Fatima tuz Zahra (MS BMES17)
 1. Amna Ashiq (MS R&AI18)
 1. Afaq Ahmad (MS R&AI18)
-1. Farooq Saeed (MS BMES18)
-1. Iqra Saeed (MS BMES18)
 1. Hajira Arif (MS BMES18)
 1. Zainab Riaz (MS BMES18)
 1. Syeda Ghina (MS BMES18)
 1. Fatima Amin (MS BMES18)
-1. Manahil Binte Irfan (MS BMES18)
 1. Ramsha Abbasi (MS BMES19)
 1. Kamran Faisal (MS RIME19)
 1. kamran Ali (MS IGIS)  *Co-supervisor*
@@ -77,3 +73,7 @@ I am always looking for good students to join my research group and work on exci
 1. Arslan Shiekh (MS BMES2016) *in co-supervision with Dr. Zartasha*
 1. Samra Zahoor (MS BMES2016) *in co-supervision with Dr. Zartasha*
 1. Moiz Ashfaque (MS RIME18) - *Currently pursuing PhD in NewZealand*
+1. Fatima tuz Zahra (MS BMES17)
+1. Manahil Binte Irfan (MS BMES18)
+1. Farooq Saeed (MS BMES18)
+1. Iqra Saeed (MS BMES18)
