@@ -24,7 +24,6 @@ I am always looking for good students to join my research group and work on exci
 1. Syeda Ghina (MS BMES18)
 1. Fatima Amin (MS BMES18)
 1. Ramsha Abbasi (MS BMES19)
-1. Kamran Faisal (MS RIME19)
 1. kamran Ali (MS IGIS)  *Co-supervisor*
 1. Feriha Khaliq (MS BMES19)
 1. Summiya Batool (MS BMES19)
