@@ -235,7 +235,7 @@ defaults:
   - scope:
       path: ""
       #type: portfolio
-      type: porjects
+      type: projects
     values:
       layout: single
       author_profile: true
