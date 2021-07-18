@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 {: style="text-align: justify" }
-Welcome to my Research and Teaching website. I am currently working as an Associate Professor in the Department of Biomedical Engineering and Sciences [(BMES-SMME)](http://www.nust.edu.pk/INSTITUTIONS/Schools/SMME/Departments/DBE/Faculty/Pages/Dr-Syed-Omer-Gilani.aspx) at the National University of Sciences and Technology [(NUST)](http://nust.edu.pk), Islamabad, Pakistan. I also have an appointment as the head of the IT department at SMME. I completed my PhD in Electrical and Computer Engineering from the National University of Singapore in 2013. Before this, I worked as a Research Engineer at Interactive Multimedia Lab, Singapore (2006-2008) and Intelligent Transportation Research Group Sweden (2004-2006).
+Welcome to my Research and Teaching website. I am an Associate Professor in Department of Biomedical Engineering and Sciences [(BMES)](http://www.nust.edu.pk/INSTITUTIONS/Schools/SMME/Departments/DBE/Faculty/Pages/Dr-Syed-Omer-Gilani.aspx) at the National University of Sciences and Technology [(NUST)](http://nust.edu.pk), Islamabad, Pakistan. I am also serving as head of BMES department and deputy director of the ICT department at SMME. I joined NUST in 2013 after completing my PhD in Electrical and Computer Engineering from the National University of Singapore (NUS). Before this, I worked as a Research Engineer at Interactive Multimedia Lab, Singapore (2006-2008) and Intelligent Transportation Research Group, Sweden (2004-2006).
 
-I have been active in academic research since 2004. My research interests include computer vision, medical signal and image analysis, machine learning, computer graphics, control systems, and power electronics.
+I have been active in academic research since 2004. My research interests include computer vision, medical signal and image analysis, machine learning, computer graphics, control systems, and electronics. My PhD dissertation was focused on developing computational model of visual saliency. 
 
 I am a senior member of IEEE (USA), IET (UK), and IMechE (UK). I regularly review manuscripts for IEEE Access, Journal of Biomedical Signal and Control and chair technical tracks at international conferences (RTCES'17, ICIP'18, ICGCET'18, APICEE'19, ICR'19).
 

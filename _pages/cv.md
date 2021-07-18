@@ -25,8 +25,9 @@ Professional Recognition
 
 Work Experience
 ======
-* 2019 - _present_ : **Associate Professor (_Tenured_)**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
-* 2013 - 2019 : **Assistant Professor**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
+* 2021 - _present_ : **Head of Department**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
+* 2020 - _present_ : **Associate Professor (_Tenured_)**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
+* 2013 - 2020 : **Assistant Professor (_TTS_)**, Department of Biomedical Engineering & Sciences, NUST, Pakistan
 * 2006 - 2008 : **Research Engineer**, Department of Electrical & Computer Engineering, NUS, Singapore
 * 2004 - 2006 : **Research Assistant**, Department of Computer Engineering - ITRG, Dalarana University, Sweden
 
