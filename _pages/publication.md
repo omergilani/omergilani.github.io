@@ -9,13 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(77)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(78)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2021  
-<sub> (5)Journal</sub>  
+<sub> (6)Journal</sub>  
+  
+Automatic detection of pathological myopia using machine learning  
+N.Rauf, S.O.Gilani, A.Waris  
+Scientific Reports, vol 11(1), pp 1--9, 2021, IF 4.37  
+**DOI:** [10.1038/s41598-021-95205-1](https://dx.doi.org/10.1038/s41598-021-95205-1){:target="_blank"}  
   
 Predicting Risk of Antenatal Depression and Anxiety Using Multi-Layer Perceptrons and Support Vector Machines  
 F.Javed, S.O.Gilani, S.Latif, A.Waris, M.Jamil, A.Waqas  
