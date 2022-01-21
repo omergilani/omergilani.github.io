@@ -9,13 +9,27 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(78)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(80)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
+  
+  
+# 2022  
+<sub> (1)Journal</sub>  
+  
+Rehabilitation of Upper Limb Motor Impairment in Stroke: A Narrative Review on the Prevalence, Risk Factors, and Economic Statistics of Stroke and State of the Art Therapies  
+S.Anwer, A.Waris, S.O.Gilani, J.Iqbal, N.Shaikh, A.N.Pujari, I.K.Niazi  
+Healthcare, vol 10(2), 2022, IF 2.64  
+**DOI:** [10.3390/healthcare10020190](https://dx.doi.org/10.3390/healthcare10020190){:target="_blank"}  
   
   
 # 2021  
-<sub> (6)Journal</sub>  
+<sub> (7)Journal</sub>  
+  
+Effective Voting Ensemble of Homogenous Ensembling with Multiple Attribute-Selection Approaches for Improved Identification of Thyroid Disorder  
+T.Akhtar, S.O.Gilani, Z.Mushtaq, S.Arif, M.Jamil, Y.Ayaz, S.I.Butt, A.Waris  
+Electronics, vol 10(23), 2021, IF 2.39  
+**DOI:** [10.3390/electronics10233026](https://dx.doi.org/10.3390/electronics10233026){:target="_blank"}  
   
 Automatic detection of pathological myopia using machine learning  
 N.Rauf, S.O.Gilani, A.Waris  
