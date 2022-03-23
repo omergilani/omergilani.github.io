@@ -9,13 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(80)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(81)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2022  
-<sub> (1)Journal</sub>  
+<sub> (2)Journal</sub>  
+  
+Melanoma Segmentation using Deep Learning with Test-time Augmentations and Conditional Random Fields  
+H.Ashraf, A.Waris, M.F.Ghafoor, S.O.Gilani, I.K.Niazi  
+Scientific Reports, vol 12(1), pp 1--16, 2022, IF 4.37  
+**DOI:** [10.1038/s41598-022-07885-y](https://dx.doi.org/10.1038/s41598-022-07885-y){:target="_blank"}  
   
 Rehabilitation of Upper Limb Motor Impairment in Stroke: A Narrative Review on the Prevalence, Risk Factors, and Economic Statistics of Stroke and State of the Art Therapies  
 S.Anwer, A.Waris, S.O.Gilani, J.Iqbal, N.Shaikh, A.N.Pujari, I.K.Niazi  
