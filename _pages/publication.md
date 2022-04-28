@@ -140,32 +140,32 @@ Journal of digital imaging, pp 1--13, 2020, IF 2.57
 <sub> (6)Journal</sub>, <sub> (8)Conference</sub>  
   
 Numerical Simulation of Inline Arrangement of Spheroid Particles in Different Orientations  
-A.Jamil, E.Uddin, A.A.Zaidi, Z.Ali, J.Aslam, S.O.Gilani, vol Volume 2: Computational Fluid Dynamics  
+A.Jamil, E.Uddin, A.A.Zaidi, Z.Ali, J.Aslam, S.O.Gilani, vol 2: Computational Fluid Dynamics  
 Fluids Engineering Division Summer Meeting, July, 2019  
 **DOI:** [10.1115/AJKFluids2019-4623](https://dx.doi.org/10.1115/AJKFluids2019-4623){:target="_blank"}  
   
 Fault Signal Detection of Linear Actuators based on Intelligent Remnant Filter  
-N.Riaz, S.O.Gilani, S.I.Shah, E.Udin, F.Rehman, vol   
+N.Riaz, S.O.Gilani, S.I.Shah, E.Udin, F.Rehman  
 2019 8th International Conference on Information and Communication Technologies (ICICT), pp 180-184, Nov, 2019  
 **DOI:** [10.1109/ICICT47744.2019.9001965](https://dx.doi.org/10.1109/ICICT47744.2019.9001965){:target="_blank"}  
   
 Automated Classification of Retinal Diseases in STARE Database Using Neural Network Approach  
-N.Zaheer, A.Shehzaad, S.O.Gilani, J.Aslam, S.A.Zaidi, vol   
+N.Zaheer, A.Shehzaad, S.O.Gilani, J.Aslam, S.A.Zaidi  
 2019 IEEE Canadian Conference of Electrical and Computer Engineering (CCECE), pp 1-5, May, 2019  
 **DOI:** [10.1109/CCECE.2019.8861588](https://dx.doi.org/10.1109/CCECE.2019.8861588){:target="_blank"}  
   
 A comparison of lumped parameter models of modified hybrid electromechanical valve actuator  
-J.Aslam, S.O.Gilani, W.H.Tanveer, E.Uddin, S.Ali, Y.Younis, vol   
+J.Aslam, S.O.Gilani, W.H.Tanveer, E.Uddin, S.Ali, Y.Younis  
 2019 IEEE Canadian Conference of Electrical and Computer Engineering (CCECE), pp 1-6, May, 2019  
 **DOI:** [10.1109/CCECE.2019.8861886](https://dx.doi.org/10.1109/CCECE.2019.8861886){:target="_blank"}  
   
 Comparative Analysis of Classifiers for EMG Signals  
-B.Saeed, S.O.Gilani, Z.U.Rehman, M.Jamil, A.Waris, M.N.Khan, vol   
+B.Saeed, S.O.Gilani, Z.U.Rehman, M.Jamil, A.Waris, M.N.Khan  
 2019 IEEE Canadian Conference of Electrical and Computer Engineering (CCECE), pp 1-5, May, 2019  
 **DOI:** [10.1109/CCECE.2019.8861835](https://dx.doi.org/10.1109/CCECE.2019.8861835){:target="_blank"}  
   
 A Novel Framework to Segment out Cervical Vertebrae  
-F.Rehman, S.I.Shah, S.O.Gilani, D.Emad, M.N.Riaz, R.Faiza, vol   
+F.Rehman, S.I.Shah, S.O.Gilani, D.Emad, M.N.Riaz, R.Faiza  
 2019 2nd International Conference on Communication, Computing and Digital systems (C-CODE), pp 190-194, March, 2019  
 **DOI:** [10.1109/C-CODE.2019.8680994](https://dx.doi.org/10.1109/C-CODE.2019.8680994){:target="_blank"}  
   
@@ -264,7 +264,7 @@ Biomedical Signal Processing and Control, vol 41, pp 140 - 151, 2018, IF 2.21
 **DOI:** [10.1016/j.bspc.2017.11.017](https://dx.doi.org/10.1016/j.bspc.2017.11.017){:target="_blank"}  
   
 Dynamic Saliency Model Inspired by Middle Temporal Visual Area: A Spatio-Temporal Perspective  
-H.Mahmood, S.M.Islam, S.O.Gilani, Y.Ayaz, vol   
+H.Mahmood, S.M.Islam, S.O.Gilani, Y.Ayaz  
 2018 Digital Image Computing: Techniques and Applications (DICTA), pp 1-8, Dec, 2018, Canberra, Australia  
 **DOI:** [10.1109/DICTA.2018.8615806](https://dx.doi.org/10.1109/DICTA.2018.8615806){:target="_blank"}  
   
