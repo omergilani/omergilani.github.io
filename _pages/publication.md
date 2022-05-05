@@ -9,13 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(81)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
+<sub>(82)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis</sub>  
   
   
   
   
 # 2022  
-<sub> (2)Journal</sub>  
+<sub> (3)Journal</sub>  
+  
+Reply to Morone, G.; Giansanti, D. Comment on &ldquo;Anwer et al. Rehabilitation of Upper Limb Motor Impairment in Stroke: A Narrative Review on the Prevalence, Risk Factors, and Economic Statistics of Stroke and State of the Art Therapies. Healthcare 2022, 10, 190&rdquo;  
+S.Anwer, A.Waris, S.O.Gilani, J.Iqbal, N.Shaikh, A.N.Pujari, I.K.Niazi  
+Healthcare, vol 10(5), 2022, IF 2.64  
+**DOI:** [10.3390/healthcare10050847](https://dx.doi.org/10.3390/healthcare10050847){:target="_blank"}  
   
 Melanoma Segmentation using Deep Learning with Test-time Augmentations and Conditional Random Fields  
 H.Ashraf, A.Waris, M.F.Ghafoor, S.O.Gilani, I.K.Niazi  
