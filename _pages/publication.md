@@ -19,7 +19,7 @@ redirect_from:
   
 Prevalence and mechanism of carbapenem-resistant genes in Acinetobacter baumannii  
 K.Khalid, A.S.Kashif, A.Amir, M.A.Waris, S.Gul, S.O.Gilani, S.Zafar, E.Nawaz, N.Ullah, A.Ikram  
-ResearchSquare Preprint no. 7501, 2022  
+ResearchSquare Preprint, 2022  
 **DOI:** [10.21203/rs.3.rs-1684783/v1](https://dx.doi.org/10.21203/rs.3.rs-1684783/v1){:target="_blank"}  
   
 A Low-Cost Device for Measurement of Exhaled Breath for the Detection of Obstructive Lung Disease  
