@@ -9,13 +9,18 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(83)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis, (2)Preprints</sub>  
+<sub>(84)Journal, (54)Conference, (4)Book Chapter, (1)Patent, (1)Thesis, (1)Preprints</sub>  
   
   
   
   
 # 2022  
-<sub> (4)Journal</sub>, <sub> (2)Preprints</sub>  
+<sub> (5)Journal</sub>, <sub> (2)Conference</sub>, <sub> (1)Preprints</sub>  
+  
+The effects of surface inclination on gastrocnemius, soleus and tibialis anterior muscle activation during gait  
+R.J.Malik, A.Waris, S.O.Gilani, J.Iqbal, A.S.Kashif, H.M.Kamboh, M.F.Ghafoor  
+Journal of Back and Musculoskeletal Rehabilitation(Preprint), pp 1--6, 2022, IF 1.45  
+**DOI:** [10.3233/BMR-210371](https://dx.doi.org/10.3233/BMR-210371){:target="_blank"}  
   
 Prevalence and mechanism of carbapenem-resistant genes in Acinetobacter baumannii  
 K.Khalid, A.S.Kashif, A.Amir, M.A.Waris, S.Gul, S.O.Gilani, S.Zafar, E.Nawaz, N.Ullah, A.Ikram  
@@ -28,10 +33,12 @@ Biosensors, vol 12(6), 2022
 **DOI:** [10.3390/bios12060409](https://dx.doi.org/10.3390/bios12060409){:target="_blank"}  
   
 Predicting Episodic Video Memorability Using Deep Features Fusion Strategy  
-H.Ali, S.O.Gilani, M.J.Khan, M.Jamil, M.Khattak  
-20th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA 2022)  
-EasyChair Preprint no. 7501, May, 2022, Las Vegas, U.S.A  
-**URL:** [easychair.org](https://easychair.org/publications/preprint/B3S1){:target="_blank"}  
+H.Ali, S.O.Gilani, M.J.Khan, A.Waris, M.K.Khattak, M.Jamil  
+2022 IEEE/ACIS 20th International Conference on Software Engineering Research, Management and Applications (SERA), pp 39--46, 2022  
+  
+Ensemble-based Effective Diagnosis of Thyroid Disorder with Various Feature Selection Techniques  
+T.Akhtar, S.Arif, Z.Mushtaq, S.O.Gilani, M.Jamil, Y.Ayaz, S.I.Butt  
+2022 2nd International Conference of Smart Systems and Emerging Technologies (SMARTTECH), pp 14--19, 2022  
   
 Reply to Morone, G.; Giansanti, D. Comment on &ldquo;Anwer et al. Rehabilitation of Upper Limb Motor Impairment in Stroke: A Narrative Review on the Prevalence, Risk Factors, and Economic Statistics of Stroke and State of the Art Therapies. Healthcare 2022, 10, 190&rdquo;  
 S.Anwer, A.Waris, S.O.Gilani, J.Iqbal, N.Shaikh, A.N.Pujari, I.K.Niazi  
