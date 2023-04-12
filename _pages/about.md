@@ -20,7 +20,7 @@ I am a senior member of IEEE (USA), IET (UK), and IMechE (UK). I regularly revie
 
 Research News
 =============
-- **16-08-2020**   Paper accepted in IEEE Access (IF 3.74)
+- **04-01-2023**   Paper of My PhD student accepted in M
 - **15-05-2020**   Paper accepted in MDPI Energies (IF 2.70)
 - **07-05-2020**   Paper accepted in IEEE Access (IF 4.09)
 - **12-03-2020**   Paper accepted in MDPI Sensors (IF 3.03)
