@@ -20,12 +20,12 @@ redirect_from:
 Variational mode decomposition for surface and intramuscular EMG signal denoising  
 H.Ashraf, U.Shafiq, Q.Sajjad, A.Waris, O.Gilani, M.Boutaayamou, O.Brüls  
 Biomedical Signal Processing and Control, vol 82, pp 104560, 2023, IF 5.07  
-**DOI:** [10.1007/s11042-023-15128-z](https://dx.doi.org/10.1007/s11042-023-15128-z){:target="_blank"}  
+**DOI:** [10.1016/j.bspc.2022.104560](https://dx.doi.org/10.1016/j.bspc.2022.104560){:target="_blank"}  
   
 Stacked Bin Convolutional Neural Networks based Sparse Low-Rank Regressor: Robust, Scalable and Novel Model for Memorability Prediction of Videos  
 H.Ali, S.O.Gilani, M.J.Khan, M.Jamil, M.K.Khattak  
 Multimedia Tools and Applications, pp 1--19, 2023, IF 2.57  
-**DOI:** [10.1016/j.bspc.2022.104560](https://dx.doi.org/10.1016/j.bspc.2022.104560){:target="_blank"}  
+**DOI:** [10.1007/s11042-023-15128-z](https://dx.doi.org/10.1007/s11042-023-15128-z){:target="_blank"}  
   
   
 # 2022  
