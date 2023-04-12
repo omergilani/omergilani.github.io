@@ -15,7 +15,7 @@ redirect_from:
   
   
 # 2023  
-<sub> (2)Journal</sub>  
+<sub> (3)Journal</sub>  
   
 Variational mode decomposition for surface and intramuscular EMG signal denoising  
 H.Ashraf, U.Shafiq, Q.Sajjad, A.Waris, O.Gilani, M.Boutaayamou, O.Brüls  
@@ -27,19 +27,19 @@ H.Ali, S.O.Gilani, M.J.Khan, M.Jamil, M.K.Khattak
 Multimedia Tools and Applications, pp 1--19, 2023, IF 2.57  
 **DOI:** [10.1007/s11042-023-15128-z](https://dx.doi.org/10.1007/s11042-023-15128-z){:target="_blank"}  
   
+The effects of surface inclination on gastrocnemius, soleus and tibialis anterior muscle activation during gait  
+R.J.Malik, A.Waris, S.O.Gilani, J.Iqbal, A.S.Kashif, H.M.Kamboh, M.F.Ghafoor  
+Journal of Back and Musculoskeletal Rehabilitation, vol 36(1), pp 181--186, 2023, IF 1.45  
+**DOI:** [10.3233/BMR-210371](https://dx.doi.org/10.3233/BMR-210371){:target="_blank"}  
+  
   
 # 2022  
-<sub> (6)Journal</sub>, <sub> (2)Conference</sub>, <sub> (1)Preprints</sub>  
+<sub> (5)Journal</sub>, <sub> (2)Conference</sub>, <sub> (1)Preprints</sub>  
   
 The impact of laminations on the mechanical strength of carbon-fiber composites for prosthetic foot fabrication  
 B.Sehar, A.Waris, S.O.Gilani, U.Ansari, S.Mushtaq, N.B.Khan, M.Jameel, M.I.Khan, O.T.Bafakeeh, E.S.Tag-ElDin  
 Crystals, vol 12(10), pp 1429, 2022, IF 2.67  
 **DOI:** [10.3390/cryst12101429](https://dx.doi.org/10.3390/cryst12101429){:target="_blank"}  
-  
-The effects of surface inclination on gastrocnemius, soleus and tibialis anterior muscle activation during gait  
-R.J.Malik, A.Waris, S.O.Gilani, J.Iqbal, A.S.Kashif, H.M.Kamboh, M.F.Ghafoor  
-Journal of Back and Musculoskeletal Rehabilitation(Preprint), pp 1--6, 2022, IF 1.45  
-**DOI:** [10.3233/BMR-210371](https://dx.doi.org/10.3233/BMR-210371){:target="_blank"}  
   
 Prevalence and mechanism of carbapenem-resistant genes in Acinetobacter baumannii  
 K.Khalid, A.S.Kashif, A.Amir, M.A.Waris, S.Gul, S.O.Gilani, S.Zafar, E.Nawaz, N.Ullah, A.Ikram  
