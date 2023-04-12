@@ -9,7 +9,7 @@ redirect_from:
   
 {% include base_path %}  
   
-<sub>(86)Journal, (54)Conference, (4)Book Chapter, (1)Patent, (1)Thesis, (1)Preprints</sub>  
+<sub>(87)Journal, (54)Conference, (4)Book Chapter, (1)Patent, (1)Thesis, (1)Preprints</sub>  
   
   
   
@@ -29,7 +29,12 @@ Multimedia Tools and Applications, pp 1--19, 2023, IF 2.57
   
   
 # 2022  
-<sub> (5)Journal</sub>, <sub> (2)Conference</sub>, <sub> (1)Preprints</sub>  
+<sub> (6)Journal</sub>, <sub> (2)Conference</sub>, <sub> (1)Preprints</sub>  
+  
+The impact of laminations on the mechanical strength of carbon-fiber composites for prosthetic foot fabrication  
+B.Sehar, A.Waris, S.O.Gilani, U.Ansari, S.Mushtaq, N.B.Khan, M.Jameel, M.I.Khan, O.T.Bafakeeh, E.S.Tag-ElDin  
+Crystals, vol 12(10), pp 1429, 2022, IF 2.67  
+**DOI:** [10.3390/cryst12101429](https://dx.doi.org/10.3390/cryst12101429){:target="_blank"}  
   
 The effects of surface inclination on gastrocnemius, soleus and tibialis anterior muscle activation during gait  
 R.J.Malik, A.Waris, S.O.Gilani, J.Iqbal, A.S.Kashif, H.M.Kamboh, M.F.Ghafoor  
@@ -49,10 +54,12 @@ Biosensors, vol 12(6), 2022
 Predicting Episodic Video Memorability Using Deep Features Fusion Strategy  
 H.Ali, S.O.Gilani, M.J.Khan, A.Waris, M.K.Khattak, M.Jamil  
 2022 IEEE/ACIS 20th International Conference on Software Engineering Research, Management and Applications (SERA), pp 39--46, 2022  
+**DOI:** [10.1109/SERA54885.2022.9806761](https://dx.doi.org/10.1109/SERA54885.2022.9806761){:target="_blank"}  
   
 Ensemble-based Effective Diagnosis of Thyroid Disorder with Various Feature Selection Techniques  
 T.Akhtar, S.Arif, Z.Mushtaq, S.O.Gilani, M.Jamil, Y.Ayaz, S.I.Butt  
 2022 2nd International Conference of Smart Systems and Emerging Technologies (SMARTTECH), pp 14--19, 2022  
+**DOI:** [10.1109/SMARTTECH54121.2022.00019](https://dx.doi.org/10.1109/SMARTTECH54121.2022.00019){:target="_blank"}  
   
 Reply to Morone, G.; Giansanti, D. Comment on &ldquo;Anwer et al. Rehabilitation of Upper Limb Motor Impairment in Stroke: A Narrative Review on the Prevalence, Risk Factors, and Economic Statistics of Stroke and State of the Art Therapies. Healthcare 2022, 10, 190&rdquo;  
 S.Anwer, A.Waris, S.O.Gilani, J.Iqbal, N.Shaikh, A.N.Pujari, I.K.Niazi  
