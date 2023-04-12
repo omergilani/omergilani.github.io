@@ -22,7 +22,7 @@ Research News
 =============
 - **13-03-2023**   Paper of My PhD student accepted in Multimedia Tools and Applications (IF 2.57)
 - **15-05-2023**   Paper accepted in Biomedical Signal Processing and Control (IF 5.07)
-- **30-12-2022**   My research group published 5 journal papers and 2 conference papers, this year
+- **30-12-2022**   My research group published 4 journal papers and 2 conference papers, this year
 - **30-12-2021**   My research group published 7 journal papers this year
 - **30-07-2020**   Received Best Researcher Award for year 2019
 - **30-12-2019**   Won HEC-NRPU Grant worth 6.0M PKR
