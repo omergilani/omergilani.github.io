@@ -1,8 +1,13 @@
 ---
+title: "Advanced Medical Analytics Lab (AMAL)"
+excerpt: "<b>Focus Areas:</b> Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS based BCI, Lung cancer detection, Bone fracture detection, Retinal image analysis, Mammogram analysis, ECG and EEG analysis <br/><img src='/images/premg.png' width='60%'>"
+collection: portfolio
+---
+<!-- ---
 title: "Medical Image and Signal Processing"
 excerpt: "Tumour segmentation, Skin lesion detection, PR based EMG control, NIRS based BCI, Lung cancer detection, Bone fracture detection, Retinal image analysis, Mammogram analysis, ECG and EEG analysis <br/><img src='/images/premg.png' width='60%'>"
 collection: portfolio
----
+--- -->
 
 ## Brain Tumour Segmentation
 <img align="right" src="/images/bts.png" width="40%">
