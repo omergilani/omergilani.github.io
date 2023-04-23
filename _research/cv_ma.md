@@ -1,8 +1,16 @@
 ---
+title: "Computer Vision and Machine Learning Lab"
+excerpt: **Focus Areas:** "Attention modelling, Human detection, Media analytics, Autonomous driving, Crowd modelling, OCR, Augmented reality, Scene understanding <br/><img src='/images/visual_Attention.png'>"
+collection: portfolio
+---
+
+
+<!-- ---
 title: "Computer Vision and Multimedia Analytics"
 excerpt: "Attention modelling, Human detection, Media analytics, Autonomous driving, Crowd modelling, OCR, Augmented reality, Scene understanding <br/><img src='/images/visual_Attention.png'>"
 collection: portfolio
----
+--- -->
+
 
 ## Visual Attention Models of Dynamic Scenes
 <img align="right" src="/images/visual_Attention.png" width="40%">
