@@ -185,7 +185,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   #portfolio:
-  projects:
+  #projects:
+  #research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -235,7 +236,8 @@ defaults:
   - scope:
       path: ""
       #type: portfolio
-      type: projects
+      #type: projects
+      type: research
     values:
       layout: single
       author_profile: true
