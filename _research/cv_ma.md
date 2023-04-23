@@ -1,6 +1,6 @@
 ---
 title: "Computer Vision and Machine Learning Lab"
-excerpt: **Focus Areas:** "Attention modelling, Human detection, Media analytics, Autonomous driving, Crowd modelling, OCR, Augmented reality, Scene understanding <br/><img src='/images/visual_Attention.png'>"
+excerpt: "<b>Focus Areas:</b> Attention modelling, Human detection, Media analytics, Autonomous driving, Crowd modelling, OCR, Augmented reality, Scene understanding <br/><img src='/images/visual_Attention.png'>"
 collection: portfolio
 ---
 
