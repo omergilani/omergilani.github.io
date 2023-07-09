@@ -4,12 +4,12 @@ title:
 permalink: /publication/  
 author_profile: true  
 redirect_from:  
-  - /resume  
+ p - /resume  
 ---  
   
 {% include base_path %}  
   
-<sub>(87)Journal, (54)Conference, (4)Book Chapter, (1)Patent, (1)Thesis, (1)Preprints</sub>  
+<sub>(83)Journal, (52)Conference, (4)Book Chapter, (1)Patent, (1)Thesis, (1)Preprints</sub>  
   
   
   
@@ -127,12 +127,12 @@ Sensors, vol 20(23), 2020, IF 3.03
 Probability of Diabetes mellitus and Cardiometabolic Syndrome based on Facial Types  
 M.Jamil, A.H.Taqi, S.O.Gilani  
 Pakistan Journal of Engineering and Technology, vol 3(1), pp 12--17, 2020  
-**URL:** [hpej.net](https://www.hpej.net/journals/index.php/pakjet/article/view/191){:target="_blank"}  
+**DOI:** [10.51846/vol3iss1pp12-17](https://dx.doi.org/10.51846/vol3iss1pp12-17){:target="_blank"}  
   
 Ground Truth Annotation, Analysis and Release of Data set of Radiographic Images of Bone Fractures  
 M.Jamil, N.Farooq, S.O.Gilani  
 Pakistan Journal of Engineering and Technology, vol 3(1), pp 6--11, 2020  
-**URL:** [hpej.net](https://www.hpej.net/journals/index.php/pakjet/article/view/192){:target="_blank"}  
+**DOI:** [10.51846/vol3iss1pp6-11](https://dx.doi.org/10.51846/vol3iss1pp6-11){:target="_blank"}  
   
 A Novel 2-D Current Signal-Based Residual Learning With Optimized Softmax to Identify Faults in Ball Screw Actuators  
 N.Riaz, S.I.Shah, F.Rehman, S.O.Gilani, E.Udin  
@@ -354,37 +354,27 @@ Frontiers of Multimedia Research, pp 219--251, 2018
   
   
 # 2017  
-<sub> (13)Journal</sub>, <sub> (12)Conference</sub>  
+<sub> (12)Journal</sub>, <sub> (11)Conference</sub>  
   
 Power Dispatch and Voltage Control in Multiterminal HVDC Systems: A Flexible Approach  
 A.Raza, Y.Liu, K.Rouzbehi, M.Jamil, S.O.Gilani, X.Dianguo, B.W.Williams  
 IEEE Access, vol 5, pp 24608--24616, 2017, IF 3.24  
 **DOI:** [10.1109/ACCESS.2017.2766161](https://dx.doi.org/10.1109/ACCESS.2017.2766161){:target="_blank"}  
   
-Arthritis Identification from Multiple Regions by X-Ray Image Processing  
-H.Hayat, S.O.Gilani, M.Jamil  
-International Journal of Signal Processing, Image Processing and Pattern Recognition, vol 10(11), pp 23--32, 2017, Scopus  
-**DOI:** [10.14257/ijsip.2017.10.11.03](https://dx.doi.org/10.14257/ijsip.2017.10.11.03){:target="_blank"}  
-  
 Economic Analysis for HVDC Transmission System in Pakistan  
 A.Raza, A.Shakeel, H.T.Hassan, M.Jamil, S.O.Gillani  
 International Journal of Control and Automation, vol 10(11), pp 29--38, 2017, Scopus  
-**URL:** [sersc.org](http://www.sersc.org/journals/IJCA/vol10_no11.php){:target="_blank"}  
-  
-Prevalence of Early Childhood Caries and associated Risk Factors from 1 to 12 years Old Children  
-S.Ghazal, S.O.Gilani, M.Jamil, T.Ashar  
-International Journal of u- and e- Service, Science and Technology, vol 10(10), pp 13--22, 2017, Scopus  
-**URL:** [sersc.org](http://www.sersc.org/journals/IJUNESST/vol10_no10.php){:target="_blank"}  
+**DOI:** [10.14257/ijca.2017.10.11.03](https://dx.doi.org/10.14257/ijca.2017.10.11.03){:target="_blank"}  
   
 A Review on Structural Analysis of Human Retinal Blood Vessels, Optic Nerve, Fovea Centralis and Related Diseases  
 T.Shafa, M.Jamil, S.O.Gilani  
 International Journal of u- and e- Service, Science and Technology, vol 10(12), pp 1--12, 2017, Scopus  
-**URL:** [sersc.org](http://www.sersc.org/journals/IJUNESST/vol10_no12/1.pdf){:target="_blank"}  
+**DOI:** [10.14257/ijunesst.2017.10.12.01](https://dx.doi.org/10.14257/ijunesst.2017.10.12.01){:target="_blank"}  
   
 Emotion Detection through Facial Feature Recognition  
 M.Asad, S.O.Gilani, M.Jamil  
 International Journal of Multimedia and Ubiquitous Engineering, vol 12(11), pp 21--30, 2017, Scopus  
-**URL:** [sersc.org](http://www.sersc.org/journals/IJMUE/vol12_no11_2017/3.pdf){:target="_blank"}  
+**DOI:** [10.14257/ijmue.2017.12.11.03](https://dx.doi.org/10.14257/ijmue.2017.12.11.03){:target="_blank"}  
   
 Optimizing Availability of a Framework in Series Configuration Utilizing Markov Model and Monte Carlo Simulation Techniques  
 M.A.Siddiqui, S.I.Butt, S.O.Gilani, M.Jamil, A.Maqsood, F.Zhang  
@@ -433,7 +423,7 @@ Proceeding of 3rd International Conference on Green Computing and Engineering Te
   
 Arthritis Identification from Multiple Regions by X-Ray Image Processing  
 H.Hayat, S.O.Gilani, M.Jamil  
-International Journal of Signal Processing, Image Processing and Pattern Recognition, vol 10, pp 23-32, 2017  
+International Journal of Signal Processing, Image Processing and Pattern Recognition, vol 10(11), pp 23--32, 2017, Scopus  
 **DOI:** [10.14257/ijsip.2017.10.11.03](https://dx.doi.org/10.14257/ijsip.2017.10.11.03){:target="_blank"}  
   
 Emotion Detection through Facial Feature Recognition  
@@ -458,7 +448,7 @@ Proceeding of 3rd International Conference on Green Computing and Engineering Te
   
 Prevalence of Early Childhood Caries and associated Risk Factors from 1 to 12 years Old Children  
 S.Ghazal, S.O.Gilani, M.Jamil, T.Ashar  
-International Journal of u- and e- Service, Science and Technology, vol 10, pp 13-22, 2017  
+International Journal of u- and e- Service, Science and Technology, vol 10(10), pp 13--22, 2017, Scopus  
 **DOI:** [10.14257/ijunesst.2017.10.10.02](https://dx.doi.org/10.14257/ijunesst.2017.10.10.02){:target="_blank"}  
   
 Assistive Diagnostic Tool in CT scans of Lungs anomalies by Utilizing Various Imaging Techniques  
@@ -483,17 +473,12 @@ International Journal of u- and e- Service, Science and Technology, vol 10, pp 1
   
   
 # 2016  
-<sub> (14)Journal</sub>, <sub> (9)Conference</sub>, <sub> (1)Book Chapter</sub>  
+<sub> (11)Journal</sub>, <sub> (8)Conference</sub>, <sub> (1)Book Chapter</sub>  
   
 Audio signals test in designing a cost effective hearing aid device using a microcontroller  
 M.Z.Rehman, S.I.Shah, M.Javaid, S.O.Gilani, U.Ansari  
 International Journal of Biomedical Engineering and Technology, vol 20(3), pp 195--207, 2016, Scopus  
 **DOI:** [10.1504/IJBET.2016.075421](https://dx.doi.org/10.1504/IJBET.2016.075421){:target="_blank"}  
-  
-A Robust Model Predictive Control for Balancing of an Inverted Pendulum  
-A.Aimal, M.Jamil, O.S.Gilani, Q.Awais, vol 9  
-Indian Journal of Science and Technology, pp , July, 2016  
-**DOI:** [10.17485/ijst/2016/v9i25/96604](https://dx.doi.org/10.17485/ijst/2016/v9i25/96604){:target="_blank"}  
   
 A Benchmark of Computational Models of Saliency to Predict Human Fixations in Videos  
 M.S.Azam, S.O.Gilani, M.Jeon, R.Yousaf, J.Bae  
@@ -520,11 +505,6 @@ A.A.Khan, M.Jamil, S.O.Gilani, Q.Awais
 Proceeding of 2nd International Conference on Green Computing and Engineering Technologies - ICGCET-2016, 2016, Aalborg, Denmark  
 **URL:** [icgcet.org](http://www.icgcet.org/ICGCET_2016.pdf){:target="_blank"}  
   
-A Robust Model predictive Control for Balancing an Inverted Pendulum  
-A.Khan, M.Jamil, S.Gilani, Q.Awais  
-Proceeding of 2nd International Conference on Green Computing and Engineering Technologies - ICGCET-2016, 2016, Aalborg, Denmark  
-**URL:** [icgcet.org](http://www.icgcet.org/ICGCET_2016.pdf){:target="_blank"}  
-  
 Monocular Vision-Based Singer-Independent Pakistani Sign Language Recognition System using supervised Learning System  
 H.Ahmed, S.Gilani, M.Jamil, Y.Ayaz, S.Shah  
 Proceeding of 2nd International Conference on Green Computing and Engineering Technologies - ICGCET-2016, 2016, Aalborg, Denmark  
@@ -536,13 +516,13 @@ Proceeding of 2nd International Conference on Green Computing and Engineering Te
 **URL:** [icgcet.org](http://www.icgcet.org/ICGCET_2016.pdf){:target="_blank"}  
   
 Adaptive Thresholding Technique for Segmentation and Juxtapleural Nodules Inclusion in Lung Segments  
-M.Z.Rehman, S.O.Gilani, S.I.Shah, M.J.Irfanullah, S.I.Butt  
-International Journal of Bio-Science and Bio-Technology, vol 8(5), 2016  
+M.Z.Rehman, S.O.Gilani, S.I.Shah, M.Jamil, S.I.Butt  
+International Journal of Bio-Science and Bio-Technology, vol 8(5), pp 105--114, 2016, Scopus  
 **DOI:** [10.14257/ijbsbt.2016.8.5.10](https://dx.doi.org/10.14257/ijbsbt.2016.8.5.10){:target="_blank"}  
   
 Prototype Development to Detect Electric Theft using PIC18F452 Microcontroller  
 S.B.Yousaf, M.Jamil, M.Z.Rehman, A.Hassan, S.O.Syed  
-Indian journal of science and technology, vol 9, 2016  
+Indian Journal of Science and Technology, vol 9(46), 2016, Scopus  
 **DOI:** [10.17485/ijst/2016/v9i46/106909](https://dx.doi.org/10.17485/ijst/2016/v9i46/106909){:target="_blank"}  
   
 LQR Based Training of Adaptive Neuro-Fuzzy Controller  
@@ -589,15 +569,6 @@ Automated Scene Analysis by Image Feature Extraction
 S.O.Gilani, M.Jamil, Z.Fazal, M.S.Naveed, R.Sakina  
 Dependable, Autonomic and Secure Computing, 14th Intl Conf on Pervasive Intelligence and Computing, 2nd Intl Conf on Big Data Intelligence and Computing and Cyber Science and Technology Congress (DASC/PiCom/DataCom/CyberSciTech), 2016 IEEE 14th Intl C, pp 530--536, 2016  
 **DOI:** [10.1109/DASC-PICom-DataCom-CyberSciTec.2016.102](https://dx.doi.org/10.1109/DASC-PICom-DataCom-CyberSciTec.2016.102){:target="_blank"}  
-  
-Adaptive Thresholding Technique for Segmentation and Juxtapleural Nodules Inclusion in Lung Segments  
-M.Z.Rehman, S.O.Gilani, S.I.Shah, M.Jamil, S.I.Butt  
-International Journal of Bio-Science and Bio-Technology, vol 8(5), pp 105--114, 2016, Scopus  
-  
-Prototype Development to Detect Electric Theft using PIC18F452 Microcontroller  
-S.B.Yousaf, M.Jamil, M.Z.Rehman, A.Hassan, S.O.Syed  
-Indian Journal of Science and Technology, vol 9(46), 2016, Scopus  
-**DOI:** [10.17485/ijst/2016/v9i46/106909](https://dx.doi.org/10.17485/ijst/2016/v9i46/106909){:target="_blank"}  
   
 Review of fiducial and non-fiducial techniques of feature extraction in ECG based biometric systems  
 Z.Hassan, S.O.Gilani, M.Jamil  
