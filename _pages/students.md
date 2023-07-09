@@ -16,16 +16,11 @@ I am always looking for good students to join my research group and work on exci
 2. Hasnain Ali (PhD scholar R&AI)
 3. Namra Afzal (PhD scholar BMES)
 4. Faisal Amin (PhD scholar BMES)  *Co-supervisor*
-5. Hajrah Sultan (MS BMES18)
-6. Syeda Ghina (MS BMES18)
-7. Aleema Moin Shaikh (MS BMES18)
-8. Ramsha Abbasi (MS BMES19)
-9. Fariha Khaliq (MS BMES19)
-10. Summiya Batool (MS BMES19)
-11. Abdullah Kamran (MS BMES19)
-12. Omar Salman Khan (MS BMES19)
-13. Sana Batool (MS BMES19)
-14. Osama Sikander Khan (MS BMES20)
+5. Ali Haider (MS BMES 2021)
+6. Sonia Basharat (MS BMES 2021)
+7. Muhamad (MS BMES 2021)
+8. Mariyam Siddique (MS BMES 2022)
+
 
 ### Alumni:
 
@@ -82,3 +77,13 @@ I am always looking for good students to join my research group and work on exci
 51. Tahseen Akhtar (PhD scholar R&AI)
 52. Zainab Riaz (MS BMES18)
 53. Sana Majeed (MS BMES18)
+54. Aleema Moin Shaikh (MS BMES18)
+55. Hajrah Sultan (MS BMES18)
+56. Syeda Ghina (MS BMES18)
+57. Ramsha Abbasi (MS BMES19)
+58. Fariha Khaliq (MS BMES19)
+59. Summiya Batool (MS BMES19)
+60. Abdullah Kamran (MS BMES19)
+61. Omar Salman Khan (MS BMES19)
+62. Sana Batool (MS BMES19)
+
