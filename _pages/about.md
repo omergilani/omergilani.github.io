@@ -9,12 +9,22 @@ redirect_from:
 ---
 
 {: style="text-align: justify" }
-Welcome to my Research and Teaching website. I am an Associate Professor in Department of Biomedical Engineering and Sciences [(BMES)](http://www.nust.edu.pk/INSTITUTIONS/Schools/SMME/Departments/DBE/Faculty/Pages/Dr-Syed-Omer-Gilani.aspx) at the National University of Sciences and Technology [(NUST)](http://nust.edu.pk), Islamabad, Pakistan. I am also serving as head of BMES department and deputy director of the ICT department at SMME. I joined NUST in 2013 after completing my PhD in Electrical and Computer Engineering from the National University of Singapore (NUS). Before this, I worked as a Research Engineer at Interactive Multimedia Lab, Singapore (2006-2008) and Intelligent Transportation Research Group, Sweden (2004-2006).
-
-I have been active in academic research since 2004. My research interests include computer vision, medical signal and image analysis, machine learning, computer graphics, control systems, and electronics. My PhD dissertation was focused on developing computational model of visual saliency. 
-
-I am a senior member of IEEE (USA), IET (UK), and IMechE (UK). I regularly review manuscripts for IEEE Access, Journal of Biomedical Signal and Control and chair technical tracks at international conferences (RTCES'17, ICIP'18, ICGCET'18, APICEE'19, ICR'19).
-
+Welcome to my Research and Teaching website. 
+Dr. Syed Omer Gilani is a faculty member in the Department of Electrical, Computer, and
+Biomedical Engineering at Abu Dhabi University. He has over a decade of experience in
+academic research, leadership, and interdisciplinary innovation. Dr. Gilani earned his PhD
+in Electrical and Computer Engineering from the National University of Singapore and has
+held progressive academic and administrative roles, including serving as an Associate Pro-
+fessor and Head of Department at the National University of Sciences and Technology
+(NUST), Pakistan. His research focuses on signal processing, machine learning, healthcare
+analytics, and intelligent assistive systems. His work includes applications in rehabilita-
+tion robotics, biomedical signal analysis, medical imaging, and human-centered intelligent
+technologies. He has authored an extensive portfolio of peer-reviewed publications in in-
+ternational journals and has led and co-led multiple competitive research grants advancing
+AI-driven healthcare solutions. In addition to research, Dr. Gilani actively contributes to
+academic leadership, mentoring, and professional service. As a Senior Member of IEEE and
+a professionally accredited engineer, he is recognized for advancing impactful research
+and fostering innovation at the intersection of engineering and healthcare.
 
 
 
