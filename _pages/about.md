@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 {: style="text-align: justify" }
-Welcome to my Research and Teaching website. 
 Dr. Syed Omer Gilani is a faculty member in the Department of Electrical, Computer, and
 Biomedical Engineering at Abu Dhabi University. He has over a decade of experience in
 academic research, leadership, and interdisciplinary innovation. Dr. Gilani earned his PhD
